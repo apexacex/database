@@ -1,0 +1,5740 @@
+{
+  "Basic_Hardware_and_Peripherals": {
+    "q181": {
+      "answer": "b",
+      "options": {
+        "a": "RJ-11",
+        "b": "RJ-45",
+        "c": "PS/2",
+        "d": "VGA"
+      },
+      "question": "Which type of port is used to connect a network cable (Ethernet)?"
+    },
+    "q182": {
+      "answer": "c",
+      "options": {
+        "a": "1.8 inches",
+        "b": "2.5 inches",
+        "c": "3.5 inches",
+        "d": "5.25 inches"
+      },
+      "question": "What is the standard size of a desktop hard disk drive (HDD)?"
+    },
+    "q183": {
+      "answer": "c",
+      "options": {
+        "a": "PCI",
+        "b": "AGP",
+        "c": "PCI Express (PCIe)",
+        "d": "ISA"
+      },
+      "question": "Which expansion slot is primarily used for high-performance graphics cards?"
+    },
+    "q184": {
+      "answer": "b",
+      "options": {
+        "a": "To increase the speed",
+        "b": "To select configuration settings (e.g., Master/Slave)",
+        "c": "To provide cooling",
+        "d": "To connect external devices"
+      },
+      "question": "What is the function of a 'Jumper' on a motherboard or hard drive?"
+    },
+    "q185": {
+      "answer": "b",
+      "options": {
+        "a": "Inkjet Printer",
+        "b": "Dot Matrix Printer",
+        "c": "Laser Printer",
+        "d": "Thermal Printer"
+      },
+      "question": "Which type of printer uses an impact mechanism to strike an ink ribbon against the paper?"
+    },
+    "q186": {
+      "answer": "a",
+      "options": {
+        "a": "Serial Advanced Technology Attachment",
+        "b": "System Access Technology Adapter",
+        "c": "Standard Access Terminal Architecture",
+        "d": "Serial Analog Technology Adapter"
+      },
+      "question": "What is the full form of SATA?"
+    },
+    "q187": {
+      "answer": "c",
+      "options": {
+        "a": "Motherboard",
+        "b": "CPU",
+        "c": "SMPS (Switched-Mode Power Supply)",
+        "d": "GPU"
+      },
+      "question": "Which component supplies power to all other components in a computer?"
+    },
+    "q188": {
+      "answer": "b",
+      "options": {
+        "a": "Architecture",
+        "b": "Form Factor",
+        "c": "Topology",
+        "d": "Layout"
+      },
+      "question": "What is the term for the physical arrangement of components on a motherboard?"
+    },
+    "q189": {
+      "answer": "c",
+      "options": {
+        "a": "DRAM",
+        "b": "SRAM",
+        "c": "EEPROM",
+        "d": "Cache"
+      },
+      "question": "Which type of memory is used to store the computer's startup instructions permanently?"
+    },
+    "q190": {
+      "answer": "b",
+      "options": {
+        "a": "12 Mbps",
+        "b": "480 Mbps",
+        "c": "5 Gbps",
+        "d": "10 Gbps"
+      },
+      "question": "What is the maximum data transfer rate of USB 2.0?"
+    },
+    "q191": {
+      "answer": "b",
+      "options": {
+        "a": "Printer",
+        "b": "Scanner",
+        "c": "Plotter",
+        "d": "Monitor"
+      },
+      "question": "Which device is used to input data from a physical document into a computer?"
+    },
+    "q192": {
+      "answer": "a",
+      "options": {
+        "a": "Dual Inline Memory Module",
+        "b": "Digital Integrated Memory Module",
+        "c": "Data Input Memory Module",
+        "d": "Direct Internal Memory Module"
+      },
+      "question": "What is the full form of DIMM?"
+    },
+    "q193": {
+      "answer": "c",
+      "options": {
+        "a": "HDD",
+        "b": "FDD",
+        "c": "SSD",
+        "d": "CD-ROM"
+      },
+      "question": "Which type of hard drive has no moving parts?"
+    },
+    "q194": {
+      "answer": "b",
+      "options": {
+        "a": "To manage I/O devices",
+        "b": "To connect the CPU to RAM and the Graphics Card",
+        "c": "To control the hard drives",
+        "d": "To manage the BIOS"
+      },
+      "question": "What is the purpose of a 'Northbridge' chip on a motherboard (in older systems)?"
+    },
+    "q195": {
+      "answer": "b",
+      "options": {
+        "a": "RJ-45",
+        "b": "VGA or HDMI",
+        "c": "USB-B",
+        "d": "PS/2"
+      },
+      "question": "Which type of cable is used to connect a computer to a projector?"
+    },
+    "q196": {
+      "answer": "c",
+      "options": {
+        "a": "DPI",
+        "b": "Pixel",
+        "c": "Hertz (Hz)",
+        "d": "Lumen"
+      },
+      "question": "What is the unit of measurement for monitor refresh rate?"
+    },
+    "q197": {
+      "answer": "c",
+      "options": {
+        "a": "CPU",
+        "b": "RAM",
+        "c": "GPU (Graphics Processing Unit)",
+        "d": "HDD"
+      },
+      "question": "Which component is responsible for processing and rendering images, videos, and animations?"
+    },
+    "q198": {
+      "answer": "c",
+      "options": {
+        "a": "Module 2",
+        "b": "Mini 2",
+        "c": "Next Generation Form Factor",
+        "d": "Memory 2"
+      },
+      "question": "What is the full form of M.2 in the context of SSDs?"
+    },
+    "q199": {
+      "answer": "c",
+      "options": {
+        "a": "USB Type-A",
+        "b": "USB Type-B",
+        "c": "USB Type-C",
+        "d": "Micro USB"
+      },
+      "question": "Which port is used for high-speed data transfer and charging in modern mobile devices and laptops?"
+    },
+    "q200": {
+      "answer": "b",
+      "options": {
+        "a": "Application",
+        "b": "Driver",
+        "c": "Firmware",
+        "d": "Utility"
+      },
+      "question": "What is the term for the software that allows the operating system to communicate with a hardware device?"
+    },
+    "q201": {
+      "answer": "b",
+      "options": {
+        "a": "DRAM",
+        "b": "Flash ROM",
+        "c": "SRAM",
+        "d": "Cache"
+      },
+      "question": "Which component is a non-volatile memory chip used to store the BIOS/UEFI firmware?"
+    },
+    "q202": {
+      "answer": "b",
+      "options": {
+        "a": "Serial Computer System Interface",
+        "b": "Small Computer System Interface",
+        "c": "System Control Storage Interface",
+        "d": "Standard Computer System Interconnect"
+      },
+      "question": "What is the full form of SCSI?"
+    },
+    "q203": {
+      "answer": "b",
+      "options": {
+        "a": "DIMM",
+        "b": "SODIMM",
+        "c": "RIMM",
+        "d": "SIMM"
+      },
+      "question": "Which type of memory module is typically used in laptops?"
+    },
+    "q204": {
+      "answer": "c",
+      "options": {
+        "a": "To insulate the CPU",
+        "b": "To secure the CPU to the socket",
+        "c": "To improve heat transfer between the CPU and the heat sink",
+        "d": "To clean the CPU surface"
+      },
+      "question": "What is the purpose of a 'Thermal Paste' on a CPU?"
+    },
+    "q205": {
+      "answer": "b",
+      "options": {
+        "a": "Printer",
+        "b": "Scanner",
+        "c": "Plotter",
+        "d": "Projector"
+      },
+      "question": "Which device is used to convert a physical document into a digital image?"
+    },
+    "q206": {
+      "answer": "b",
+      "options": {
+        "a": "Advanced Graphics Port",
+        "b": "Accelerated Graphics Port",
+        "c": "Analog Graphics Processor",
+        "d": "Auxiliary Graphics Port"
+      },
+      "question": "What is the full form of AGP?"
+    },
+    "q207": {
+      "answer": "b",
+      "options": {
+        "a": "Straight-through cable",
+        "b": "Crossover cable",
+        "c": "Coaxial cable",
+        "d": "Fiber optic cable"
+      },
+      "question": "Which type of cable is used for a crossover connection between two similar devices (e.g., PC to PC)?"
+    },
+    "q208": {
+      "answer": "b",
+      "options": {
+        "a": "Reading",
+        "b": "Burning",
+        "c": "Formatting",
+        "d": "Partitioning"
+      },
+      "question": "What is the term for the process of writing data to a CD or DVD?"
+    },
+    "q209": {
+      "answer": "b",
+      "options": {
+        "a": "Virtual Memory",
+        "b": "Cache Memory",
+        "c": "Secondary Storage",
+        "d": "Flash Memory"
+      },
+      "question": "Which component is a small, high-speed memory located on the CPU chip?"
+    },
+    "q210": {
+      "answer": "b",
+      "options": {
+        "a": "Random Access Independent Disks",
+        "b": "Redundant Array of Independent Disks",
+        "c": "Rapid Access Integrated Data",
+        "d": "Remote Array of Internet Devices"
+      },
+      "question": "What is the full form of RAID?"
+    },
+    "q211": {
+      "answer": "c",
+      "options": {
+        "a": "CRT",
+        "b": "LED",
+        "c": "LCD",
+        "d": "Plasma"
+      },
+      "question": "Which type of monitor uses a layer of liquid crystals to produce images?"
+    },
+    "q212": {
+      "answer": "b",
+      "options": {
+        "a": "Integrated Development Environment",
+        "b": "Integrated Drive Electronics (PATA)",
+        "c": "Internal Drive Emulator",
+        "d": "Integrated Design Engine"
+      },
+      "question": "What is the full form of IDE in the context of hard drives?"
+    },
+    "q213": {
+      "answer": "c",
+      "options": {
+        "a": "UPS",
+        "b": "Voltage Regulator",
+        "c": "SMPS",
+        "d": "Inverter"
+      },
+      "question": "Which component is used to convert AC power to DC power for the computer?"
+    },
+    "q214": {
+      "answer": "b",
+      "options": {
+        "a": "Architecture",
+        "b": "Form Factor",
+        "c": "Topology",
+        "d": "Layout"
+      },
+      "question": "What is the term for the physical size and shape of a motherboard?"
+    },
+    "q215": {
+      "answer": "c",
+      "options": {
+        "a": "ROM",
+        "b": "Cache",
+        "c": "RAM",
+        "d": "HDD"
+      },
+      "question": "Which type of memory is used to store the data being actively processed by the CPU?"
+    },
+    "q216": {
+      "answer": "b",
+      "options": {
+        "a": "Network Information Center",
+        "b": "Network Interface Card",
+        "c": "Node Integrated Circuit",
+        "d": "Network Internal Connector"
+      },
+      "question": "What is the full form of NIC?"
+    },
+    "q217": {
+      "answer": "b",
+      "options": {
+        "a": "UPS",
+        "b": "Surge Protector",
+        "c": "Inverter",
+        "d": "Voltage Regulator"
+      },
+      "question": "Which device is used to protect a computer from power surges and spikes?"
+    },
+    "q218": {
+      "answer": "c",
+      "options": {
+        "a": "Defragmentation",
+        "b": "Disk Cleanup",
+        "c": "Physical Cleaning",
+        "d": "Formatting"
+      },
+      "question": "What is the term for the process of removing dust and debris from internal computer components?"
+    },
+    "q219": {
+      "answer": "c",
+      "options": {
+        "a": "UTP Cable",
+        "b": "Coaxial Cable",
+        "c": "Fiber Optic Cable",
+        "d": "STP Cable"
+      },
+      "question": "Which type of cable is immune to electromagnetic interference (EMI)?"
+    },
+    "q220": {
+      "answer": "a",
+      "options": {
+        "a": "Peripheral Component Interconnect",
+        "b": "Program Control Interface",
+        "c": "Power Control Indicator",
+        "d": "Peripheral Communication Interface"
+      },
+      "question": "What is the full form of PCI?"
+    },
+    "q221": {
+      "answer": "b",
+      "options": {
+        "a": "ROM",
+        "b": "Printer RAM",
+        "c": "HDD",
+        "d": "Flash Memory"
+      },
+      "question": "Which type of memory is used to store the printer's font and image data temporarily?"
+    },
+    "q222": {
+      "answer": "a",
+      "options": {
+        "a": "Basic Input Output System",
+        "b": "Binary Input Operating System",
+        "c": "Basic Integrated Operating System",
+        "d": "Built-in Input Output Software"
+      },
+      "question": "What is the full form of BIOS?"
+    },
+    "q223": {
+      "answer": "c",
+      "options": {
+        "a": "Router",
+        "b": "Switch",
+        "c": "Modem",
+        "d": "Hub"
+      },
+      "question": "Which component is used to connect a computer to a telephone line for internet access?"
+    },
+    "q224": {
+      "answer": "b",
+      "options": {
+        "a": "RJ-45",
+        "b": "RJ-11",
+        "c": "BNC",
+        "d": "USB"
+      },
+      "question": "What is the standard connector for a telephone line?"
+    },
+    "q225": {
+      "answer": "c",
+      "options": {
+        "a": "Coaxial Cable",
+        "b": "Fiber Optic Cable",
+        "c": "Twisted Pair Cable (Ethernet)",
+        "d": "HDMI Cable"
+      },
+      "question": "Which type of cable is used to connect a computer to a network switch?"
+    },
+    "q226": {
+      "answer": "a",
+      "options": {
+        "a": "Power On Self Test",
+        "b": "Program On System Test",
+        "c": "Power Off System Transfer",
+        "d": "Peripheral Operating System Test"
+      },
+      "question": "What is the full form of POST?"
+    },
+    "q227": {
+      "answer": "c",
+      "options": {
+        "a": "RAM",
+        "b": "Cache",
+        "c": "Secondary Storage (HDD/SSD)",
+        "d": "CPU"
+      },
+      "question": "Which component is responsible for storing data permanently in a computer?"
+    },
+    "q228": {
+      "answer": "c",
+      "options": {
+        "a": "Bit",
+        "b": "Nibble",
+        "c": "Byte",
+        "d": "Word"
+      },
+      "question": "What is the term for the smallest addressable unit of memory?"
+    },
+    "q229": {
+      "answer": "b",
+      "options": {
+        "a": "ROM",
+        "b": "Cache Memory",
+        "c": "HDD",
+        "d": "Flash Memory"
+      },
+      "question": "Which type of memory is used to speed up the transfer of data between the CPU and main memory?"
+    },
+    "q230": {
+      "answer": "b",
+      "options": {
+        "a": "Central Metal Oxide Semiconductor",
+        "b": "Complementary Metal-Oxide-Semiconductor",
+        "c": "Computer Main Operating System",
+        "d": "Control Memory Output System"
+      },
+      "question": "What is the full form of CMOS?"
+    },
+    "q231": {
+      "answer": "b",
+      "options": {
+        "a": "Multimeter",
+        "b": "Cable Tester",
+        "c": "Oscilloscope",
+        "d": "Crimping Tool"
+      },
+      "question": "Which tool is used to test the continuity of a network cable?"
+    },
+    "q232": {
+      "answer": "a",
+      "options": {
+        "a": "Parallel Advanced Technology Attachment",
+        "b": "Peripheral Advanced Technology Access",
+        "c": "Programmed Access Technology Adapter",
+        "d": "Parallel Analog Technology Access"
+      },
+      "question": "What is the full form of PATA?"
+    },
+    "q233": {
+      "answer": "b",
+      "options": {
+        "a": "SMPS",
+        "b": "Heat Sink and Fan",
+        "c": "RAM",
+        "d": "CMOS Battery"
+      },
+      "question": "Which component is used to cool the CPU?"
+    },
+    "q234": {
+      "answer": "b",
+      "options": {
+        "a": "Partitioning",
+        "b": "Formatting",
+        "c": "Defragmenting",
+        "d": "Clustering"
+      },
+      "question": "What is the term for the process of preparing a storage device for initial use by creating a file system?"
+    },
+    "q235": {
+      "answer": "c",
+      "options": {
+        "a": "HDMI",
+        "b": "DisplayPort",
+        "c": "VGA",
+        "d": "DVI"
+      },
+      "question": "Which type of cable is used to connect a monitor to a computer using an analog signal?"
+    },
+    "q236": {
+      "answer": "a",
+      "options": {
+        "a": "Digital Video Interface",
+        "b": "Data Visual Input",
+        "c": "Direct Video Interconnect",
+        "d": "Digital Volume Indicator"
+      },
+      "question": "What is the full form of DVI?"
+    },
+    "q237": {
+      "answer": "c",
+      "options": {
+        "a": "Inkjet",
+        "b": "Laser",
+        "c": "Dye-sublimation (or Thermal Transfer)",
+        "d": "Dot Matrix"
+      },
+      "question": "Which type of printer uses heat to transfer ink from a ribbon onto paper?"
+    },
+    "q238": {
+      "answer": "b",
+      "options": {
+        "a": "Electronic Control Circuit",
+        "b": "Error Correcting Code",
+        "c": "Enhanced Cache Controller",
+        "d": "External Clock Cycle"
+      },
+      "question": "What is the full form of ECC in the context of RAM?"
+    },
+    "q239": {
+      "answer": "b",
+      "options": {
+        "a": "SMPS",
+        "b": "UPS",
+        "c": "Voltage Regulator",
+        "d": "Surge Protector"
+      },
+      "question": "Which component is used to provide temporary power during an outage?"
+    },
+    "q240": {
+      "answer": "c",
+      "options": {
+        "a": "Pins",
+        "b": "Pads",
+        "c": "Lands (LGA)",
+        "d": "Sockets"
+      },
+      "question": "What is the term for the small, circular metal contacts on a CPU that connect to the motherboard socket?"
+    }
+  },
+  "Computer_Fundamentals": {
+    "q121": {
+      "answer": "b",
+      "options": {
+        "a": "Blaise Pascal",
+        "b": "Charles Babbage",
+        "c": "John von Neumann",
+        "d": "Alan Turing"
+      },
+      "question": "Who is known as the 'Father of the Computer'?"
+    },
+    "q122": {
+      "answer": "a",
+      "options": {
+        "a": "First Generation",
+        "b": "Second Generation",
+        "c": "Third Generation",
+        "d": "Fourth Generation"
+      },
+      "question": "Which generation of computers used Vacuum Tubes?"
+    },
+    "q123": {
+      "answer": "b",
+      "options": {
+        "a": "First Generation",
+        "b": "Second Generation",
+        "c": "Third Generation",
+        "d": "Fourth Generation"
+      },
+      "question": "Which generation of computers used Transistors?"
+    },
+    "q124": {
+      "answer": "a",
+      "options": {
+        "a": "Electronic Numerical Integrator And Computer",
+        "b": "Electrical Numerical Integrator And Calculator",
+        "c": "Electronic Network Integration And Control",
+        "d": "Energy Neutral Information And Communication"
+      },
+      "question": "What is the full form of ENIAC?"
+    },
+    "q125": {
+      "answer": "c",
+      "options": {
+        "a": "Minicomputer",
+        "b": "Microcomputer",
+        "c": "Supercomputer",
+        "d": "Mainframe"
+      },
+      "question": "Which type of computer is used for complex scientific calculations and weather forecasting?"
+    },
+    "q126": {
+      "answer": "b",
+      "options": {
+        "a": "Software",
+        "b": "Hardware",
+        "c": "Firmware",
+        "d": "Liveware"
+      },
+      "question": "What is the term for the physical components of a computer system?"
+    },
+    "q127": {
+      "answer": "b",
+      "options": {
+        "a": "ALU",
+        "b": "Control Unit (CU)",
+        "c": "Memory Unit",
+        "d": "Register"
+      },
+      "question": "Which unit of the CPU is responsible for coordinating all operations?"
+    },
+    "q128": {
+      "answer": "c",
+      "options": {
+        "a": "General User Interface",
+        "b": "Graphical Utility Interface",
+        "c": "Graphical User Interface",
+        "d": "Global User Interaction"
+      },
+      "question": "What is the full form of GUI?"
+    },
+    "q129": {
+      "answer": "c",
+      "options": {
+        "a": "RAM",
+        "b": "Cache",
+        "c": "ROM",
+        "d": "Hard Disk"
+      },
+      "question": "Which type of memory is used to store the computer's startup instructions (BIOS/UEFI)?"
+    },
+    "q130": {
+      "answer": "b",
+      "options": {
+        "a": "Compiling",
+        "b": "Booting",
+        "c": "Formatting",
+        "d": "Installing"
+      },
+      "question": "What is the process of loading the operating system into the computer's memory called?"
+    },
+    "q131": {
+      "answer": "c",
+      "options": {
+        "a": "Printer",
+        "b": "Monitor",
+        "c": "Scanner",
+        "d": "Speaker"
+      },
+      "question": "Which is an example of an input device?"
+    },
+    "q132": {
+      "answer": "b",
+      "options": {
+        "a": "Byte",
+        "b": "Bit",
+        "c": "Kilobyte",
+        "d": "Nibble"
+      },
+      "question": "What is the smallest unit of data in a computer?"
+    },
+    "q133": {
+      "answer": "b",
+      "options": {
+        "a": "Second Generation",
+        "b": "Third Generation",
+        "c": "Fourth Generation",
+        "d": "Fifth Generation"
+      },
+      "question": "Which computer generation used Integrated Circuits (ICs)?"
+    },
+    "q134": {
+      "answer": "a",
+      "options": {
+        "a": "Very Large Scale Integration",
+        "b": "Virtual Logic System Interface",
+        "c": "Variable Logic System Integration",
+        "d": "Vector Logic Scale Integration"
+      },
+      "question": "What is the full form of VLSI?"
+    },
+    "q135": {
+      "answer": "b",
+      "options": {
+        "a": "Application Software",
+        "b": "System Software",
+        "c": "Utility Software",
+        "d": "Firmware"
+      },
+      "question": "Which type of software is the Operating System?"
+    },
+    "q136": {
+      "answer": "c",
+      "options": {
+        "a": "Hard Disk",
+        "b": "RAM",
+        "c": "Cache Memory",
+        "d": "ROM"
+      },
+      "question": "What is the term for a temporary storage area for data that the CPU needs to access quickly?"
+    },
+    "q137": {
+      "answer": "b",
+      "options": {
+        "a": "USB",
+        "b": "PS/2",
+        "c": "VGA",
+        "d": "HDMI"
+      },
+      "question": "Which port is commonly used to connect a keyboard and mouse in older computers?"
+    },
+    "q138": {
+      "answer": "b",
+      "options": {
+        "a": "High Definition Display",
+        "b": "Hard Disk Drive",
+        "c": "Hardware Device Driver",
+        "d": "High Data Density"
+      },
+      "question": "What is the full form of HDD?"
+    },
+    "q139": {
+      "answer": "c",
+      "options": {
+        "a": "Router",
+        "b": "Switch",
+        "c": "Modem",
+        "d": "Hub"
+      },
+      "question": "Which component is responsible for converting digital signals to analog signals for transmission over telephone lines?"
+    },
+    "q140": {
+      "answer": "b",
+      "options": {
+        "a": "Standard",
+        "b": "Protocol",
+        "c": "Topology",
+        "d": "Interface"
+      },
+      "question": "What is the term for a set of rules governing the exchange of information?"
+    },
+    "q141": {
+      "answer": "b",
+      "options": {
+        "a": "Minicomputer",
+        "b": "Microcomputer",
+        "c": "Mainframe",
+        "d": "Supercomputer"
+      },
+      "question": "Which type of computer is a laptop?"
+    },
+    "q142": {
+      "answer": "a",
+      "options": {
+        "a": "Power On Self Test",
+        "b": "Program On System Test",
+        "c": "Power Off System Transfer",
+        "d": "Peripheral Operating System Test"
+      },
+      "question": "What is the full form of POST?"
+    },
+    "q143": {
+      "answer": "b",
+      "options": {
+        "a": "RAM",
+        "b": "ROM",
+        "c": "Cache",
+        "d": "SRAM"
+      },
+      "question": "Which memory is non-volatile and can be read from but not easily written to?"
+    },
+    "q144": {
+      "answer": "b",
+      "options": {
+        "a": "To power the CPU",
+        "b": "To store the BIOS settings and system time",
+        "c": "To power the cooling fan",
+        "d": "To provide backup power to the hard drive"
+      },
+      "question": "What is the function of the CMOS battery on the motherboard?"
+    },
+    "q145": {
+      "answer": "c",
+      "options": {
+        "a": "Mouse",
+        "b": "Keyboard",
+        "c": "Plotter",
+        "d": "Webcam"
+      },
+      "question": "Which is an example of an output device?"
+    },
+    "q146": {
+      "answer": "a",
+      "options": {
+        "a": "Magnetic Ink Character Reader",
+        "b": "Main Integrated Circuit Register",
+        "c": "Micro Input Control Register",
+        "d": "Memory Interface Control Reader"
+      },
+      "question": "What is the full form of MICR?"
+    },
+    "q147": {
+      "answer": "c",
+      "options": {
+        "a": "Inkjet Printer",
+        "b": "Dot Matrix Printer",
+        "c": "Laser Printer",
+        "d": "Thermal Printer"
+      },
+      "question": "Which type of printer uses toner powder and a laser beam?"
+    },
+    "q148": {
+      "answer": "b",
+      "options": {
+        "a": "Bus Speed",
+        "b": "Clock Speed (measured in Hz)",
+        "c": "Data Rate",
+        "d": "Latency"
+      },
+      "question": "What is the term for the speed at which the CPU executes instructions?"
+    },
+    "q149": {
+      "answer": "b",
+      "options": {
+        "a": "Data Bus",
+        "b": "Address Bus",
+        "c": "Control Bus",
+        "d": "System Bus"
+      },
+      "question": "Which bus carries the memory address from the CPU to the memory?"
+    },
+    "q150": {
+      "answer": "b",
+      "options": {
+        "a": "Open Source",
+        "b": "Operating System",
+        "c": "Output System",
+        "d": "Optical Storage"
+      },
+      "question": "What is the full form of OS?"
+    },
+    "q151": {
+      "answer": "c",
+      "options": {
+        "a": "Second Generation",
+        "b": "Third Generation",
+        "c": "Fourth Generation",
+        "d": "Fifth Generation"
+      },
+      "question": "Which computer generation used Microprocessors (VLSI)?"
+    },
+    "q152": {
+      "answer": "c",
+      "options": {
+        "a": "Universal Resource Locator",
+        "b": "Uniform Resource Link",
+        "c": "Uniform Resource Locator",
+        "d": "Universal Remote Link"
+      },
+      "question": "What is the full form of URL?"
+    },
+    "q153": {
+      "answer": "b",
+      "options": {
+        "a": "Application Software",
+        "b": "System Software",
+        "c": "Utility Software",
+        "d": "Firmware"
+      },
+      "question": "Which type of software is used to manage the computer's resources and provide a platform for applications?"
+    },
+    "q154": {
+      "answer": "b",
+      "options": {
+        "a": "Formatting",
+        "b": "Partitioning",
+        "c": "Defragmenting",
+        "d": "Clustering"
+      },
+      "question": "What is the term for the process of dividing a hard disk into one or more logical areas?"
+    },
+    "q155": {
+      "answer": "a",
+      "options": {
+        "a": "F1",
+        "b": "F5",
+        "c": "F10",
+        "d": "F12"
+      },
+      "question": "Which key is used to open the Help window in most applications?"
+    },
+    "q156": {
+      "answer": "b",
+      "options": {
+        "a": "Digital Pixel Index",
+        "b": "Dots Per Inch",
+        "c": "Data Processing Interface",
+        "d": "Document Print Index"
+      },
+      "question": "What is the full form of DPI in the context of printing?"
+    },
+    "q157": {
+      "answer": "c",
+      "options": {
+        "a": "ROM",
+        "b": "HDD",
+        "c": "RAM",
+        "d": "SSD"
+      },
+      "question": "Which type of memory is used to store data temporarily for the CPU to access quickly?"
+    },
+    "q158": {
+      "answer": "b",
+      "options": {
+        "a": "Light Crystal Display",
+        "b": "Liquid Crystal Display",
+        "c": "Low Cost Display",
+        "d": "Logic Control Device"
+      },
+      "question": "What is the full form of LCD?"
+    },
+    "q159": {
+      "answer": "c",
+      "options": {
+        "a": "Microcomputer",
+        "b": "Minicomputer",
+        "c": "Mainframe",
+        "d": "Supercomputer"
+      },
+      "question": "Which type of computer is designed to support hundreds or thousands of users simultaneously?"
+    },
+    "q160": {
+      "answer": "a",
+      "options": {
+        "a": "World Wide Web",
+        "b": "Web Wide World",
+        "c": "World Web Work",
+        "d": "Wide Web World"
+      },
+      "question": "What is the full form of WWW?"
+    },
+    "q161": {
+      "answer": "c",
+      "options": {
+        "a": "Third Generation",
+        "b": "Fourth Generation",
+        "c": "Fifth Generation",
+        "d": "Sixth Generation"
+      },
+      "question": "Which generation of computers introduced the concept of Artificial Intelligence?"
+    },
+    "q162": {
+      "answer": "a",
+      "options": {
+        "a": "Optical Mark Reader",
+        "b": "Online Memory Register",
+        "c": "Output Management Report",
+        "d": "Optical Media Reader"
+      },
+      "question": "What is the full form of OMR?"
+    },
+    "q163": {
+      "answer": "c",
+      "options": {
+        "a": "Cache",
+        "b": "ROM",
+        "c": "Secondary Storage (HDD/SSD)",
+        "d": "SRAM"
+      },
+      "question": "Which type of memory is typically slower but has a larger capacity than RAM?"
+    },
+    "q164": {
+      "answer": "c",
+      "options": {
+        "a": "Application",
+        "b": "Driver",
+        "c": "Firmware",
+        "d": "Utility"
+      },
+      "question": "What is the term for the software that controls the basic functions of a device, often stored in ROM?"
+    },
+    "q165": {
+      "answer": "b",
+      "options": {
+        "a": "Hertz (Hz)",
+        "b": "Bits per second (bps)",
+        "c": "Volt",
+        "d": "Ohm"
+      },
+      "question": "Which is a common unit of measurement for data transfer rate?"
+    },
+    "q166": {
+      "answer": "b",
+      "options": {
+        "a": "System Software Drive",
+        "b": "Solid State Drive",
+        "c": "Standard Storage Device",
+        "d": "Super Speed Disk"
+      },
+      "question": "What is the full form of SSD?"
+    },
+    "q167": {
+      "answer": "b",
+      "options": {
+        "a": "Minicomputer",
+        "b": "Microcomputer",
+        "c": "Mainframe",
+        "d": "Supercomputer"
+      },
+      "question": "Which type of computer is a tablet?"
+    },
+    "q168": {
+      "answer": "a",
+      "options": {
+        "a": "Optical Character Recognition",
+        "b": "Online Computer Resource",
+        "c": "Output Control Register",
+        "d": "Operational Command Rate"
+      },
+      "question": "What is the full form of OCR?"
+    },
+    "q169": {
+      "answer": "c",
+      "options": {
+        "a": "ALU",
+        "b": "Control Unit",
+        "c": "System Clock",
+        "d": "RAM"
+      },
+      "question": "Which component is responsible for generating the timing signals for the CPU?"
+    },
+    "q170": {
+      "answer": "b",
+      "options": {
+        "a": "Hardware",
+        "b": "Software",
+        "c": "Data",
+        "d": "Network"
+      },
+      "question": "What is the term for the set of instructions that a computer follows?"
+    },
+    "q171": {
+      "answer": "c",
+      "options": {
+        "a": "ROM",
+        "b": "Cache",
+        "c": "RAM",
+        "d": "HDD"
+      },
+      "question": "Which type of memory is used to store the currently running programs and data?"
+    },
+    "q172": {
+      "answer": "a",
+      "options": {
+        "a": "Video Graphics Array",
+        "b": "Variable Graphics Adapter",
+        "c": "Visual Graphics Access",
+        "d": "Vector Graphics Array"
+      },
+      "question": "What is the full form of VGA?"
+    },
+    "q173": {
+      "answer": "b",
+      "options": {
+        "a": "General Purpose Computer",
+        "b": "Special Purpose Computer",
+        "c": "Analog Computer",
+        "d": "Hybrid Computer"
+      },
+      "question": "Which type of computer is used for process control and embedded systems?"
+    },
+    "q174": {
+      "answer": "c",
+      "options": {
+        "a": "General User Interface",
+        "b": "Graphical Utility Interface",
+        "c": "Graphical User Interface",
+        "d": "Global User Interaction"
+      },
+      "question": "What is the full form of GUI?"
+    },
+    "q175": {
+      "answer": "c",
+      "options": {
+        "a": "CPU",
+        "b": "RAM",
+        "c": "Motherboard",
+        "d": "Hard Disk"
+      },
+      "question": "Which component is the main circuit board of a computer?"
+    },
+    "q176": {
+      "answer": "a",
+      "options": {
+        "a": "High Definition Multimedia Interface",
+        "b": "High Data Memory Interface",
+        "c": "Hardware Device Management Interface",
+        "d": "Home Digital Media Interface"
+      },
+      "question": "What is the full form of HDMI?"
+    },
+    "q177": {
+      "answer": "c",
+      "options": {
+        "a": "ROM",
+        "b": "EPROM",
+        "c": "RAM",
+        "d": "Flash Memory"
+      },
+      "question": "Which type of memory is volatile and loses its data when power is removed?"
+    },
+    "q178": {
+      "answer": "b",
+      "options": {
+        "a": "Interpreter",
+        "b": "Compiler",
+        "c": "Assembler",
+        "d": "Loader"
+      },
+      "question": "What is the term for the software that translates a high-level language program into machine code all at once?"
+    },
+    "q179": {
+      "answer": "c",
+      "options": {
+        "a": "Keyboard",
+        "b": "Scanner",
+        "c": "Mouse",
+        "d": "Microphone"
+      },
+      "question": "Which is an example of a pointing device?"
+    },
+    "q180": {
+      "answer": "a",
+      "options": {
+        "a": "Universal Serial Bus",
+        "b": "Uniform System Bus",
+        "c": "Universal Storage Block",
+        "d": "Unit Serial Buffer"
+      },
+      "question": "What is the full form of USB?"
+    }
+  },
+  "Computer_Fundamentals_and_DOS": {
+    "q1": {
+      "answer": "b",
+      "options": {
+        "a": "PASCALINE",
+        "b": "CHARLES BABBAGE",
+        "c": "LEIBNITZ",
+        "d": "HARMAN HORTH"
+      },
+      "question": "Father of computer is known to?"
+    },
+    "q10": {
+      "answer": "a",
+      "options": {
+        "a": "CD & floppies",
+        "b": "Printer",
+        "c": "VDU",
+        "d": "Light Pen"
+      },
+      "question": "Which is not a Output devices"
+    },
+    "q11": {
+      "answer": "c",
+      "options": {
+        "a": "Minutes Per Second",
+        "b": "Micro Instruction Per Secon",
+        "c": "Millon Instruct. Per Second",
+        "d": "Mulitiple Instru.Per Second"
+      },
+      "question": "MIPS stand for"
+    },
+    "q12": {
+      "answer": "d",
+      "options": {
+        "a": "Analytical Engine",
+        "b": "Differential Engine",
+        "c": "First Genration Computer",
+        "d": "Both A & B"
+      },
+      "question": "Charles Babbage invented?"
+    },
+    "q13": {
+      "answer": "c",
+      "options": {
+        "a": "Low Level Language",
+        "b": "High Level Language",
+        "c": "Programming Language (PL)",
+        "d": "Assembly Language"
+      },
+      "question": "Which is not type of language"
+    },
+    "q14": {
+      "answer": "d",
+      "options": {
+        "a": "Keyboard & Mouse",
+        "b": "Touch Screen Monitor",
+        "c": "OCR & MICR",
+        "d": "Speaker"
+      },
+      "question": "Input devices is not"
+    },
+    "q15": {
+      "answer": "d",
+      "options": {
+        "a": "Arya Bhatt",
+        "b": "Chinees People",
+        "c": "Leibnitz",
+        "d": "Joseph Marrie Jacquard"
+      },
+      "question": "Punch card was invented by"
+    },
+    "q16": {
+      "answer": "d",
+      "options": {
+        "a": "Coded Infromation",
+        "b": "Procedure & Program",
+        "c": "Routine",
+        "d": "CD filled with Software"
+      },
+      "question": "Software are not"
+    },
+    "q17": {
+      "answer": "a",
+      "options": {
+        "a": "Software",
+        "b": "Hardware",
+        "c": "Object Program",
+        "d": "Source Program"
+      },
+      "question": "Compilier is"
+    },
+    "q18": {
+      "answer": "a",
+      "options": {
+        "a": "Firmware",
+        "b": "Hardware",
+        "c": "Source Program",
+        "d": "Object Program"
+      },
+      "question": "Interpreter"
+    },
+    "q19": {
+      "answer": "b",
+      "options": {
+        "a": "Control Processing Unit",
+        "b": "Central Processing Unit",
+        "c": "Computer Power Unit",
+        "d": "Computer Program unit"
+      },
+      "question": "C.P.U. stand for"
+    },
+    "q2": {
+      "answer": "c",
+      "options": {
+        "a": "RICHIE DENIEL",
+        "b": "BILL GATES",
+        "c": "LADY LOVELACE",
+        "d": "KERNIGHAN"
+      },
+      "question": "First programmer was?"
+    },
+    "q20": {
+      "answer": "a",
+      "options": {
+        "a": "4 Bits",
+        "b": "5 Bits",
+        "c": "6 Bits",
+        "d": "7 Bits"
+      },
+      "question": "BCD is code of"
+    },
+    "q21": {
+      "answer": "b",
+      "options": {
+        "a": "ASCII",
+        "b": "EBCDIC",
+        "c": "BCD",
+        "d": "Boudot Code"
+      },
+      "question": "8 Bits code is"
+    },
+    "q22": {
+      "answer": "a",
+      "options": {
+        "a": "Primary memory",
+        "b": "Secondary Memory",
+        "c": "Neighter A Nor B",
+        "d": "Both A & B"
+      },
+      "question": "RAM & ROM are"
+    },
+    "q23": {
+      "answer": "b",
+      "options": {
+        "a": "LASER Printer",
+        "b": "Monitor",
+        "c": "MICR",
+        "d": "OCR"
+      },
+      "question": "Cathode rays tube is satuated"
+    },
+    "q24": {
+      "answer": "b",
+      "options": {
+        "a": "Speed of Computer",
+        "b": "Picture Quality",
+        "c": "Sound Effect",
+        "d": "Software Utility"
+      },
+      "question": "Pixal & resolution are responsible for"
+    },
+    "q25": {
+      "answer": "c",
+      "options": {
+        "a": "MGA",
+        "b": "CGA",
+        "c": "VGA",
+        "d": "EGA"
+      },
+      "question": "Which monitor will give better picture quality"
+    },
+    "q26": {
+      "answer": "c",
+      "options": {
+        "a": "Hard disk",
+        "b": "Printer",
+        "c": "Multimedia",
+        "d": "Monitor"
+      },
+      "question": "NLQ term is related to"
+    },
+    "q27": {
+      "answer": "a",
+      "options": {
+        "a": "Win95 & Win98",
+        "b": "Win98 & Win95",
+        "c": "Win98 & WinNT",
+        "d": "WinNT & Win XP"
+      },
+      "question": "FAT16/FAT32 are respectively related to"
+    },
+    "q28": {
+      "answer": "b",
+      "options": {
+        "a": "track 0",
+        "b": "Track 1",
+        "c": "Last Track",
+        "d": "Infinite Track"
+      },
+      "question": "FAT is Stored in"
+    },
+    "q29": {
+      "answer": "a",
+      "options": {
+        "a": "Double Side Double Density",
+        "b": "Direct Storage Double Density",
+        "c": "Double Side Dynamic Density",
+        "d": "Dynamic Storage Double Densit"
+      },
+      "question": "DSDD is refer to"
+    },
+    "q3": {
+      "answer": "a",
+      "options": {
+        "a": "7",
+        "b": "8",
+        "c": "6",
+        "d": "5"
+      },
+      "question": "How many bits does ASCII code posses?"
+    },
+    "q30": {
+      "answer": "b",
+      "options": {
+        "a": "Floppies",
+        "b": "Hard Disk",
+        "c": "CD ROM",
+        "d": "Magnetic Tapes"
+      },
+      "question": "Which of the following has least access time"
+    },
+    "q31": {
+      "answer": "a",
+      "options": {
+        "a": "Single User Operating syste",
+        "b": "Multiuser Operating System",
+        "c": "Network Related O/p System",
+        "d": "Internet Friendly O/P Syst."
+      },
+      "question": "DOS is a"
+    },
+    "q32": {
+      "answer": "d",
+      "options": {
+        "a": "File & Memory Management",
+        "b": "Booting of System",
+        "c": "Creat & Printing Documents",
+        "d": "A & B"
+      },
+      "question": "Main tasks of Operating system are"
+    },
+    "q33": {
+      "answer": "a",
+      "options": {
+        "a": "Job Control Language",
+        "b": "Just Computing Language",
+        "c": "Job Central Language",
+        "d": "Job Cancelled Language"
+      },
+      "question": "JCL is"
+    },
+    "q34": {
+      "answer": "d",
+      "options": {
+        "a": "Useless files",
+        "b": "File with backups",
+        "c": "Usefull for creating Files",
+        "d": "Hidden files"
+      },
+      "question": "MS-DOS & IO.SYS are"
+    },
+    "q35": {
+      "answer": "c",
+      "options": {
+        "a": "Multitasking Mode",
+        "b": "Resident Memory",
+        "c": "COMMAND.COM",
+        "d": "Multiuser Mode"
+      },
+      "question": "Internal commands are directly related to"
+    },
+    "q36": {
+      "answer": "a",
+      "options": {
+        "a": "Very usefull file",
+        "b": "Can Boot system on its own",
+        "c": "sometimes usefull",
+        "d": "Optional for user's use"
+      },
+      "question": "Autoexec.BAT file is"
+    },
+    "q37": {
+      "answer": "b",
+      "options": {
+        "a": "Internal commands",
+        "b": "External Commands",
+        "c": "External & Internal respec.",
+        "d": "Internal & External respec."
+      },
+      "question": "Undelete and TREE commands"
+    },
+    "q38": {
+      "answer": "a",
+      "options": {
+        "a": "RECOVER command",
+        "b": "STORE command",
+        "c": "Backup Command",
+        "d": "Format Command"
+      },
+      "question": "Complentory command of RESTORE commanD is"
+    },
+    "q39": {
+      "answer": "a",
+      "options": {
+        "a": "Assign path for accesing",
+        "b": "Remote accesing",
+        "c": "Assign files to directory",
+        "d": "Assign directory to file"
+      },
+      "question": "PATH command is used for"
+    },
+    "q4": {
+      "answer": "b",
+      "options": {
+        "a": "Binary Compact Disk",
+        "b": "Binary Coded Decimal",
+        "c": "Bit Code Decimal",
+        "d": "Bit Calculating Decimal"
+      },
+      "question": "BCD stand for?"
+    },
+    "q40": {
+      "answer": "a",
+      "options": {
+        "a": "Selecting multiple files",
+        "b": "selecting all files",
+        "c": "one files",
+        "d": "no files"
+      },
+      "question": "Global & Wildcard concept is used"
+    },
+    "q41": {
+      "answer": "c",
+      "options": {
+        "a": "at root position",
+        "b": "Staying is that directory",
+        "c": "at parent position",
+        "d": "at child position"
+      },
+      "question": "Sub directory can be removed only"
+    },
+    "q42": {
+      "answer": "a",
+      "options": {
+        "a": "delete all files",
+        "b": "delete with permission",
+        "c": "delete page wise",
+        "d": "delete files of 'P' Name"
+      },
+      "question": "Del *.*/p is used"
+    },
+    "q43": {
+      "answer": "b",
+      "options": {
+        "a": "Same commands",
+        "b": "Internal commands",
+        "c": "External commands",
+        "d": "none of above"
+      },
+      "question": "VER & VERIFY are"
+    },
+    "q44": {
+      "answer": "a",
+      "options": {
+        "a": "can be used",
+        "b": "can not used",
+        "c": "some times used",
+        "d": "depend on user ability"
+      },
+      "question": "With single floppy drive DISKCOPY Command"
+    },
+    "q45": {
+      "answer": "a",
+      "options": {
+        "a": "Configuring HDD",
+        "b": "Configuring CD",
+        "c": "Configuring floppies",
+        "d": "all of above"
+      },
+      "question": "FDISK command is used"
+    },
+    "q46": {
+      "answer": "c",
+      "options": {
+        "a": "some times can be used",
+        "b": "always can used",
+        "c": "Non executable",
+        "d": "Non of above"
+      },
+      "question": "DISKCOPY A: C:"
+    },
+    "q5": {
+      "answer": "c",
+      "options": {
+        "a": "Anolog Computer",
+        "b": "Hybird Computer",
+        "c": "Electomagnetic Computer",
+        "d": "Digital Computer"
+      },
+      "question": "Which is odd in types cf Computer?"
+    },
+    "q6": {
+      "answer": "c",
+      "options": {
+        "a": "Personal calculator",
+        "b": "Perfect Computer",
+        "c": "Personal Computer",
+        "d": "Pocket Computer"
+      },
+      "question": "PC stand for?"
+    },
+    "q7": {
+      "answer": "b",
+      "options": {
+        "a": "1000 bytes",
+        "b": "1024 bytes",
+        "c": "1096 bytes",
+        "d": "1056 bytes"
+      },
+      "question": "Killobytes KB is equivalent to?"
+    },
+    "q8": {
+      "answer": "c",
+      "options": {
+        "a": "Indian Bank Management",
+        "b": "Internation. Banking Machin",
+        "c": "International Buss. Machine",
+        "d": "Industrial Business Machine"
+      },
+      "question": "IBM stand for?"
+    },
+    "q9": {
+      "answer": "c",
+      "options": {
+        "a": "Diode",
+        "b": "Vaccume tubes",
+        "c": "Transistor",
+        "d": "ICs"
+      },
+      "question": "in Second genaration of Computer Main component was ?"
+    }
+  },
+  "Digital_Electronics_and_Logic_Gates": {
+    "q100": {
+      "answer": "b",
+      "options": {
+        "a": "Frequency",
+        "b": "Period",
+        "c": "Duty Cycle",
+        "d": "Pulse Width"
+      },
+      "question": "What is the term for the time interval between two successive clock pulses?"
+    },
+    "q101": {
+      "answer": "c",
+      "options": {
+        "a": "Encoder",
+        "b": "Multiplexer",
+        "c": "Demultiplexer (DEMUX)",
+        "d": "Decoder"
+      },
+      "question": "Which type of circuit is used to convert a single serial data input into multiple parallel data outputs?"
+    },
+    "q102": {
+      "answer": "b",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "High Impedance",
+        "d": "Error"
+      },
+      "question": "What is the output of a NAND gate if both inputs are 0?"
+    },
+    "q103": {
+      "answer": "b",
+      "options": {
+        "a": "Decoder",
+        "b": "Multiplexer (MUX)",
+        "c": "Demultiplexer (DEMUX)",
+        "d": "Encoder"
+      },
+      "question": "Which component is used to select one of many input signals and route it to a single output?"
+    },
+    "q104": {
+      "answer": "a",
+      "options": {
+        "a": "Very Large Scale Integration",
+        "b": "Virtual Logic System Interface",
+        "c": "Variable Logic System Integration",
+        "d": "Vector Logic Scale Integration"
+      },
+      "question": "What is the full form of VLSI?"
+    },
+    "q105": {
+      "answer": "c",
+      "options": {
+        "a": "SRAM",
+        "b": "DRAM",
+        "c": "Flash ROM",
+        "d": "Cache"
+      },
+      "question": "Which type of memory is typically used for the BIOS/UEFI firmware?"
+    },
+    "q106": {
+      "answer": "a",
+      "options": {
+        "a": "0101",
+        "b": "0110",
+        "c": "1011",
+        "d": "1100"
+      },
+      "question": "What is the 1's complement of the binary number 1010?"
+    },
+    "q107": {
+      "answer": "c",
+      "options": {
+        "a": "Flip-Flop",
+        "b": "Counter",
+        "c": "Adder",
+        "d": "Shift Register"
+      },
+      "question": "Which component is a combinational logic circuit that performs addition of two binary numbers?"
+    },
+    "q108": {
+      "answer": "b",
+      "options": {
+        "a": "Electrically Programmable Read-Only Memory",
+        "b": "Erasable Programmable Read-Only Memory",
+        "c": "Electronic Permanent Read-Only Memory",
+        "d": "External Program Read-Only Memory"
+      },
+      "question": "What is the full form of EPROM?"
+    },
+    "q109": {
+      "answer": "b",
+      "options": {
+        "a": "HDD",
+        "b": "SRAM (Static RAM)",
+        "c": "Flash Memory",
+        "d": "CD-ROM"
+      },
+      "question": "Which type of memory is faster but more expensive than DRAM?"
+    },
+    "q110": {
+      "answer": "a",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "Toggle",
+        "d": "Error"
+      },
+      "question": "What is the output of an XNOR gate if both inputs are different (0,1 or 1,0)?"
+    },
+    "q111": {
+      "answer": "b",
+      "options": {
+        "a": "DAC (Digital-to-Analog Converter)",
+        "b": "ADC (Analog-to-Digital Converter)",
+        "c": "Amplifier",
+        "d": "Filter"
+      },
+      "question": "Which component is used to convert analog signals to digital signals?"
+    },
+    "q112": {
+      "answer": "b",
+      "options": {
+        "a": "Data Access Control",
+        "b": "Digital-to-Analog Converter",
+        "c": "Direct Access Circuit",
+        "d": "Digital Audio Controller"
+      },
+      "question": "What is the full form of DAC?"
+    },
+    "q113": {
+      "answer": "c",
+      "options": {
+        "a": "Amplifier",
+        "b": "Filter",
+        "c": "Oscillator",
+        "d": "Rectifier"
+      },
+      "question": "Which type of circuit is used to generate a continuous, repetitive waveform?"
+    },
+    "q114": {
+      "answer": "b",
+      "options": {
+        "a": "1010",
+        "b": "1111",
+        "c": "1100",
+        "d": "1000"
+      },
+      "question": "What is the binary equivalent of the hexadecimal number F?"
+    },
+    "q115": {
+      "answer": "b",
+      "options": {
+        "a": "DRAM",
+        "b": "SRAM",
+        "c": "HDD",
+        "d": "ROM"
+      },
+      "question": "Which type of memory is used as cache memory in a computer?"
+    },
+    "q116": {
+      "answer": "a",
+      "options": {
+        "a": "Complex Instruction Set Computer",
+        "b": "Complete Instruction System Code",
+        "c": "Central Integrated System Controller",
+        "d": "Computer Information System Center"
+      },
+      "question": "What is the full form of CISC?"
+    },
+    "q117": {
+      "answer": "c",
+      "options": {
+        "a": "OR",
+        "b": "NOR",
+        "c": "NAND",
+        "d": "XOR"
+      },
+      "question": "Which type of logic gate is equivalent to an inverted AND gate?"
+    },
+    "q118": {
+      "answer": "b",
+      "options": {
+        "a": "0101",
+        "b": "0110",
+        "c": "1011",
+        "d": "1100"
+      },
+      "question": "What is the 2's complement of the binary number 1010?"
+    },
+    "q119": {
+      "answer": "b",
+      "options": {
+        "a": "Astable Multivibrator",
+        "b": "Monostable Multivibrator",
+        "c": "Bistable Multivibrator",
+        "d": "Flip-Flop"
+      },
+      "question": "Which type of circuit is used to convert a single clock pulse into a pulse of a specific duration?"
+    },
+    "q120": {
+      "answer": "a",
+      "options": {
+        "a": "Reduced Instruction Set Computer",
+        "b": "Random Instruction System Code",
+        "c": "Rapid Integrated System Controller",
+        "d": "Remote Information System Center"
+      },
+      "question": "What is the full form of RISC?"
+    },
+    "q61": {
+      "answer": "c",
+      "options": {
+        "a": "8",
+        "b": "10",
+        "c": "2",
+        "d": "16"
+      },
+      "question": "What is the base of the Binary number system?"
+    },
+    "q62": {
+      "answer": "b",
+      "options": {
+        "a": "9",
+        "b": "11",
+        "c": "13",
+        "d": "15"
+      },
+      "question": "What is the decimal equivalent of the binary number 1011?"
+    },
+    "q63": {
+      "answer": "d",
+      "options": {
+        "a": "AND Gate",
+        "b": "OR Gate",
+        "c": "NOT Gate",
+        "d": "NAND Gate"
+      },
+      "question": "Which logic gate is known as the universal gate?"
+    },
+    "q64": {
+      "answer": "b",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "High Impedance",
+        "d": "Error"
+      },
+      "question": "What is the output of an AND gate if both inputs are 1?"
+    },
+    "q65": {
+      "answer": "a",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "High Impedance",
+        "d": "Error"
+      },
+      "question": "What is the output of an OR gate if both inputs are 0?"
+    },
+    "q66": {
+      "answer": "c",
+      "options": {
+        "a": "AND",
+        "b": "OR",
+        "c": "NOT",
+        "d": "XOR"
+      },
+      "question": "Which gate is an inverter?"
+    },
+    "q67": {
+      "answer": "a",
+      "options": {
+        "a": "26",
+        "b": "16",
+        "c": "10",
+        "d": "30"
+      },
+      "question": "What is the decimal equivalent of the hexadecimal number 1A?"
+    },
+    "q68": {
+      "answer": "b",
+      "options": {
+        "a": "2",
+        "b": "8",
+        "c": "10",
+        "d": "16"
+      },
+      "question": "What is the base of the Octal number system?"
+    },
+    "q69": {
+      "answer": "c",
+      "options": {
+        "a": "Resistor",
+        "b": "Capacitor",
+        "c": "Flip-Flop",
+        "d": "Transistor"
+      },
+      "question": "Which component is used to store a single bit of binary data?"
+    },
+    "q70": {
+      "answer": "a",
+      "options": {
+        "a": "Transistor-Transistor Logic",
+        "b": "Time-To-Live",
+        "c": "Total Transistor Load",
+        "d": "Triple Terminal Logic"
+      },
+      "question": "What is the full form of TTL?"
+    },
+    "q71": {
+      "answer": "c",
+      "options": {
+        "a": "Amplifier",
+        "b": "Oscillator",
+        "c": "Counter",
+        "d": "Filter"
+      },
+      "question": "Which type of circuit is used to count pulses?"
+    },
+    "q72": {
+      "answer": "a",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "Toggle",
+        "d": "Error"
+      },
+      "question": "What is the output of an XOR gate if both inputs are the same (0,0 or 1,1)?"
+    },
+    "q73": {
+      "answer": "b",
+      "options": {
+        "a": "Encoder",
+        "b": "Decoder",
+        "c": "Multiplexer",
+        "d": "Demultiplexer"
+      },
+      "question": "Which circuit is used to convert binary code into a decimal display?"
+    },
+    "q74": {
+      "answer": "b",
+      "options": {
+        "a": "Central Metal Oxide Semiconductor",
+        "b": "Complementary Metal-Oxide-Semiconductor",
+        "c": "Computer Main Operating System",
+        "d": "Control Memory Output System"
+      },
+      "question": "What is the full form of CMOS?"
+    },
+    "q75": {
+      "answer": "c",
+      "options": {
+        "a": "AND",
+        "b": "NAND",
+        "c": "NOR",
+        "d": "XOR"
+      },
+      "question": "Which logic gate is equivalent to an inverted OR gate?"
+    },
+    "q76": {
+      "answer": "b",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "8",
+        "d": "16"
+      },
+      "question": "How many bits are in a Nibble?"
+    },
+    "q77": {
+      "answer": "b",
+      "options": {
+        "a": "Decoder",
+        "b": "Multiplexer (MUX)",
+        "c": "Demultiplexer (DEMUX)",
+        "d": "Encoder"
+      },
+      "question": "Which component is used to select one of many input signals and route it to a single output?"
+    },
+    "q78": {
+      "answer": "b",
+      "options": {
+        "a": "100",
+        "b": "101",
+        "c": "110",
+        "d": "111"
+      },
+      "question": "What is the binary representation of the decimal number 5?"
+    },
+    "q79": {
+      "answer": "c",
+      "options": {
+        "a": "ROM",
+        "b": "EPROM",
+        "c": "RAM",
+        "d": "Flash Memory"
+      },
+      "question": "Which type of memory is volatile and loses its data when power is removed?"
+    },
+    "q80": {
+      "answer": "a",
+      "options": {
+        "a": "American Standard Code for Information Interchange",
+        "b": "Advanced System Code for Internet Interface",
+        "c": "Analog Signal Code for Information Input",
+        "d": "Automated Standard Computer Interface"
+      },
+      "question": "What is the full form of ASCII?"
+    },
+    "q81": {
+      "answer": "c",
+      "options": {
+        "a": "Memory Unit",
+        "b": "Control Unit",
+        "c": "Arithmetic Logic Unit (ALU)",
+        "d": "Input/Output Unit"
+      },
+      "question": "Which component is the heart of a microprocessor?"
+    },
+    "q82": {
+      "answer": "c",
+      "options": {
+        "a": "Nibble",
+        "b": "Word",
+        "c": "Byte",
+        "d": "Kilobyte"
+      },
+      "question": "What is the term for a group of bits (usually 8) processed as a single unit?"
+    },
+    "q83": {
+      "answer": "d",
+      "options": {
+        "a": "SR Flip-Flop",
+        "b": "D Flip-Flop",
+        "c": "JK Flip-Flop",
+        "d": "T Flip-Flop"
+      },
+      "question": "Which type of flip-flop is commonly used for frequency division?"
+    },
+    "q84": {
+      "answer": "a",
+      "options": {
+        "a": "Binary Coded Decimal",
+        "b": "Bit Code Data",
+        "c": "Basic Computer Design",
+        "d": "Byte Coded Digit"
+      },
+      "question": "What is the full form of BCD?"
+    },
+    "q85": {
+      "answer": "d",
+      "options": {
+        "a": "AND",
+        "b": "OR",
+        "c": "NAND",
+        "d": "NOR"
+      },
+      "question": "Which logic gate produces a high output only when all its inputs are low?"
+    },
+    "q86": {
+      "answer": "b",
+      "options": {
+        "a": "Clock Cycle",
+        "b": "Propagation Delay",
+        "c": "Rise Time",
+        "d": "Fall Time"
+      },
+      "question": "What is the term for the time required for a digital signal to change from one state to another?"
+    },
+    "q87": {
+      "answer": "c",
+      "options": {
+        "a": "Program Counter",
+        "b": "Instruction Register",
+        "c": "Memory Data Register (MDR)",
+        "d": "Accumulator"
+      },
+      "question": "Which type of register is used to temporarily hold data being transferred to or from the memory?"
+    },
+    "q88": {
+      "answer": "b",
+      "options": {
+        "a": "Array Logic Unit",
+        "b": "Arithmetic Logic Unit",
+        "c": "Application Logic Unit",
+        "d": "Address Logic Unit"
+      },
+      "question": "What is the full form of ALU?"
+    },
+    "q89": {
+      "answer": "a",
+      "options": {
+        "a": "Parallel-in Serial-out Shift Register",
+        "b": "Counter",
+        "c": "Multiplexer",
+        "d": "Decoder"
+      },
+      "question": "Which circuit is used to convert a parallel data input into a serial data output?"
+    },
+    "q90": {
+      "answer": "c",
+      "options": {
+        "a": "3",
+        "b": "6",
+        "c": "8",
+        "d": "16"
+      },
+      "question": "What is the maximum number of states a 3-bit counter can have?"
+    },
+    "q91": {
+      "answer": "c",
+      "options": {
+        "a": "SRAM",
+        "b": "DRAM",
+        "c": "EEPROM (Electrically Erasable Programmable ROM)",
+        "d": "Cache"
+      },
+      "question": "Which type of memory is non-volatile and can be electrically erased and reprogrammed?"
+    },
+    "q92": {
+      "answer": "c",
+      "options": {
+        "a": "1000",
+        "b": "1001",
+        "c": "1010",
+        "d": "1100"
+      },
+      "question": "What is the binary equivalent of the decimal number 10?"
+    },
+    "q93": {
+      "answer": "c",
+      "options": {
+        "a": "AND",
+        "b": "OR",
+        "c": "XOR",
+        "d": "NAND"
+      },
+      "question": "Which logic gate is used as a controlled inverter?"
+    },
+    "q94": {
+      "answer": "a",
+      "options": {
+        "a": "Large Scale Integration",
+        "b": "Logic System Interface",
+        "c": "Low Speed Interconnect",
+        "d": "Local System Integration"
+      },
+      "question": "What is the full form of LSI?"
+    },
+    "q95": {
+      "answer": "c",
+      "options": {
+        "a": "Combinational Logic",
+        "b": "Arithmetic Logic",
+        "c": "Flip-Flop",
+        "d": "Decoder"
+      },
+      "question": "Which type of digital circuit is sequential?"
+    },
+    "q96": {
+      "answer": "a",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "High Impedance",
+        "d": "Toggle"
+      },
+      "question": "What is the output of a NOT gate if the input is 1?"
+    },
+    "q97": {
+      "answer": "d",
+      "options": {
+        "a": "Binary",
+        "b": "Decimal",
+        "c": "Octal",
+        "d": "Hexadecimal"
+      },
+      "question": "Which number system is most commonly used in microprocessors for addressing memory locations?"
+    },
+    "q98": {
+      "answer": "b",
+      "options": {
+        "a": "Internal Circuit",
+        "b": "Integrated Circuit",
+        "c": "Input Connector",
+        "d": "Isolated Component"
+      },
+      "question": "What is the full form of IC?"
+    },
+    "q99": {
+      "answer": "c",
+      "options": {
+        "a": "TTL",
+        "b": "ECL",
+        "c": "CMOS",
+        "d": "DTL"
+      },
+      "question": "Which type of logic family is known for its low power consumption?"
+    }
+  },
+  "Electronics_Fundamentals": {
+    "q1": {
+      "answer": "c",
+      "options": {
+        "a": "Volt",
+        "b": "Ohm",
+        "c": "Ampere",
+        "d": "Watt"
+      },
+      "question": "What is the unit of electrical current?"
+    },
+    "q10": {
+      "answer": "b",
+      "options": {
+        "a": "Inversion",
+        "b": "Rectification",
+        "c": "Amplification",
+        "d": "Modulation"
+      },
+      "question": "What is the term for the process of converting AC to DC?"
+    },
+    "q11": {
+      "answer": "c",
+      "options": {
+        "a": "FET",
+        "b": "MOSFET",
+        "c": "BJT (Bipolar Junction Transistor)",
+        "d": "JFET"
+      },
+      "question": "Which type of transistor uses both electrons and holes as charge carriers?"
+    },
+    "q12": {
+      "answer": "a",
+      "options": {
+        "a": "Brown, Black, Black, Gold",
+        "b": "Black, Brown, Black, Gold",
+        "c": "Brown, Black, Brown, Gold",
+        "d": "Black, Black, Brown, Gold"
+      },
+      "question": "What is the color code for a 10 Ohm resistor with 5% tolerance?"
+    },
+    "q13": {
+      "answer": "b",
+      "options": {
+        "a": "To convert AC to DC",
+        "b": "To step up or step down AC voltage",
+        "c": "To store electrical energy",
+        "d": "To regulate current"
+      },
+      "question": "What is the primary function of a transformer?"
+    },
+    "q14": {
+      "answer": "c",
+      "options": {
+        "a": "Resistor",
+        "b": "Inductor",
+        "c": "Capacitor",
+        "d": "Transistor"
+      },
+      "question": "Which component is used to store electrical energy in an electric field?"
+    },
+    "q15": {
+      "answer": "b",
+      "options": {
+        "a": "Second",
+        "b": "Hertz (Hz)",
+        "c": "Meter",
+        "d": "Farad"
+      },
+      "question": "What is the unit of frequency?"
+    },
+    "q16": {
+      "answer": "b",
+      "options": {
+        "a": "Internal Circuit",
+        "b": "Integrated Circuit",
+        "c": "Input Connector",
+        "d": "Isolated Component"
+      },
+      "question": "What is the full form of IC?"
+    },
+    "q17": {
+      "answer": "b",
+      "options": {
+        "a": "Parallel Circuit",
+        "b": "Series Circuit",
+        "c": "Bridge Circuit",
+        "d": "Open Circuit"
+      },
+      "question": "Which type of circuit has only one path for current flow?"
+    },
+    "q18": {
+      "answer": "c",
+      "options": {
+        "a": "Resistance",
+        "b": "Conductance",
+        "c": "Impedance",
+        "d": "Admittance"
+      },
+      "question": "What is the term for the opposition to the flow of AC current in a circuit?"
+    },
+    "q19": {
+      "answer": "b",
+      "options": {
+        "a": "Rectifier Diode",
+        "b": "Zener Diode",
+        "c": "LED",
+        "d": "SCR"
+      },
+      "question": "Which component is used to regulate the voltage in a power supply circuit?"
+    },
+    "q2": {
+      "answer": "c",
+      "options": {
+        "a": "Capacitor",
+        "b": "Inductor",
+        "c": "Resistor",
+        "d": "Diode"
+      },
+      "question": "Which component opposes the flow of current in a circuit?"
+    },
+    "q20": {
+      "answer": "b",
+      "options": {
+        "a": "To increase current",
+        "b": "To protect the circuit from overcurrent",
+        "c": "To store energy",
+        "d": "To convert AC to DC"
+      },
+      "question": "What is the purpose of a fuse in an electrical circuit?"
+    },
+    "q21": {
+      "answer": "b",
+      "options": {
+        "a": "12V",
+        "b": "24V",
+        "c": "50V",
+        "d": "100V"
+      },
+      "question": "What is the maximum voltage a human body can safely withstand?"
+    },
+    "q22": {
+      "answer": "c",
+      "options": {
+        "a": "Copper",
+        "b": "Aluminum",
+        "c": "Semiconductors (e.g., Silicon)",
+        "d": "Gold"
+      },
+      "question": "Which material has a negative temperature coefficient of resistance?"
+    },
+    "q23": {
+      "answer": "c",
+      "options": {
+        "a": "Current",
+        "b": "Power",
+        "c": "Voltage",
+        "d": "Energy"
+      },
+      "question": "What is the term for the difference in electrical potential between two points?"
+    },
+    "q24": {
+      "answer": "b",
+      "options": {
+        "a": "Direct Current (DC)",
+        "b": "Alternating Current (AC)",
+        "c": "Pulsating Current",
+        "d": "Steady Current"
+      },
+      "question": "Which type of current changes its direction periodically?"
+    },
+    "q25": {
+      "answer": "a",
+      "options": {
+        "a": "50 Hz",
+        "b": "60 Hz",
+        "c": "100 Hz",
+        "d": "120 Hz"
+      },
+      "question": "What is the standard frequency of AC supply in India?"
+    },
+    "q26": {
+      "answer": "c",
+      "options": {
+        "a": "Resistor",
+        "b": "Diode",
+        "c": "Capacitor",
+        "d": "Transistor"
+      },
+      "question": "Which component is used for filtering in a power supply circuit?"
+    },
+    "q27": {
+      "answer": "b",
+      "options": {
+        "a": "To increase power consumption",
+        "b": "To provide a safe path for fault current",
+        "c": "To regulate voltage",
+        "d": "To reduce resistance"
+      },
+      "question": "What is the purpose of earthing (grounding) in electrical systems?"
+    },
+    "q28": {
+      "answer": "c",
+      "options": {
+        "a": "Conductor",
+        "b": "Semiconductor",
+        "c": "Insulator",
+        "d": "Superconductor"
+      },
+      "question": "Which type of material has very high resistance?"
+    },
+    "q29": {
+      "answer": "b",
+      "options": {
+        "a": "Simple Mode Power Supply",
+        "b": "Switched-Mode Power Supply",
+        "c": "System Main Power Source",
+        "d": "Standard Modular Power System"
+      },
+      "question": "What is the full form of SMPS?"
+    },
+    "q3": {
+      "answer": "a",
+      "options": {
+        "a": "Blocks DC and passes AC",
+        "b": "Passes DC and blocks AC",
+        "c": "Converts AC to DC",
+        "d": "Converts DC to AC"
+      },
+      "question": "What is the function of a capacitor in a DC circuit?"
+    },
+    "q30": {
+      "answer": "c",
+      "options": {
+        "a": "Resistor",
+        "b": "Capacitor",
+        "c": "Transistor",
+        "d": "Inductor"
+      },
+      "question": "Which component is used to amplify a weak signal?"
+    },
+    "q31": {
+      "answer": "b",
+      "options": {
+        "a": "Refining",
+        "b": "Doping",
+        "c": "Etching",
+        "d": "Sintering"
+      },
+      "question": "What is the process of adding impurities to a semiconductor material called?"
+    },
+    "q32": {
+      "answer": "b",
+      "options": {
+        "a": "P-type",
+        "b": "N-type",
+        "c": "Intrinsic",
+        "d": "Compound"
+      },
+      "question": "Which type of semiconductor is created by doping with a pentavalent impurity?"
+    },
+    "q33": {
+      "answer": "c",
+      "options": {
+        "a": "Volt",
+        "b": "Ampere",
+        "c": "Watt",
+        "d": "Ohm"
+      },
+      "question": "What is the unit of electrical power?"
+    },
+    "q34": {
+      "answer": "b",
+      "options": {
+        "a": "Resistor",
+        "b": "Varistor (MOV)",
+        "c": "Inductor",
+        "d": "Fuse"
+      },
+      "question": "Which component is used to protect a circuit from voltage spikes?"
+    },
+    "q35": {
+      "answer": "c",
+      "options": {
+        "a": "P = V/I",
+        "b": "P = I/V",
+        "c": "P = V * I",
+        "d": "P = V * R"
+      },
+      "question": "What is the formula for calculating power (P) in a DC circuit?"
+    },
+    "q36": {
+      "answer": "b",
+      "options": {
+        "a": "Wave Soldering",
+        "b": "Reflow Soldering",
+        "c": "Iron Soldering",
+        "d": "Dip Soldering"
+      },
+      "question": "Which type of soldering is typically used for surface-mount components?"
+    },
+    "q37": {
+      "answer": "a",
+      "options": {
+        "a": "Printed Circuit Board",
+        "b": "Program Control Block",
+        "c": "Power Control Board",
+        "d": "Peripheral Component Bus"
+      },
+      "question": "What is the full form of PCB?"
+    },
+    "q38": {
+      "answer": "c",
+      "options": {
+        "a": "Soldering Iron",
+        "b": "Wire Stripper",
+        "c": "Desoldering Pump (Solder Sucker)",
+        "d": "Crimping Tool"
+      },
+      "question": "Which tool is used to remove solder from a PCB?"
+    },
+    "q39": {
+      "answer": "b",
+      "options": {
+        "a": "To increase the melting point of solder",
+        "b": "To clean the metal surfaces and prevent oxidation",
+        "c": "To cool down the joint quickly",
+        "d": "To make the joint stronger mechanically"
+      },
+      "question": "What is the purpose of flux in soldering?"
+    },
+    "q4": {
+      "answer": "c",
+      "options": {
+        "a": "Farad",
+        "b": "Henry",
+        "c": "Ohm",
+        "d": "Joule"
+      },
+      "question": "What is the unit of electrical resistance?"
+    },
+    "q40": {
+      "answer": "b",
+      "options": {
+        "a": "Alternating Current (AC)",
+        "b": "Direct Current (DC)",
+        "c": "Pulsating Current",
+        "d": "Square Wave"
+      },
+      "question": "Which type of current is supplied by a battery?"
+    },
+    "q41": {
+      "answer": "b",
+      "options": {
+        "a": "3.3V",
+        "b": "5V",
+        "c": "12V",
+        "d": "24V"
+      },
+      "question": "What is the typical output voltage of a USB port?"
+    },
+    "q42": {
+      "answer": "b",
+      "options": {
+        "a": "LED",
+        "b": "Photodiode (Solar Cell)",
+        "c": "Resistor",
+        "d": "Transistor"
+      },
+      "question": "Which component is used to convert light energy into electrical energy?"
+    },
+    "q43": {
+      "answer": "b",
+      "options": {
+        "a": "Universal Power System",
+        "b": "Uninterruptible Power Supply",
+        "c": "Unit Power Source",
+        "d": "Under Power System"
+      },
+      "question": "What is the full form of UPS?"
+    },
+    "q44": {
+      "answer": "c",
+      "options": {
+        "a": "Lead-Acid",
+        "b": "Nickel-Cadmium",
+        "c": "Lithium-ion",
+        "d": "Alkaline"
+      },
+      "question": "Which type of battery is commonly used in laptops and mobile phones?"
+    },
+    "q45": {
+      "answer": "c",
+      "options": {
+        "a": "Voltage",
+        "b": "Resistance",
+        "c": "Current",
+        "d": "Power"
+      },
+      "question": "What is the term for the flow of electrons in a conductor?"
+    },
+    "q46": {
+      "answer": "b",
+      "options": {
+        "a": "Resistor",
+        "b": "Capacitor and Resistor (RC circuit)",
+        "c": "Diode",
+        "d": "Transistor"
+      },
+      "question": "Which component is used to introduce a time delay in a circuit?"
+    },
+    "q47": {
+      "answer": "b",
+      "options": {
+        "a": "Electrical Measurement Instrument",
+        "b": "Electromagnetic Interference",
+        "c": "Electronic Module Interface",
+        "d": "Energy Management Indicator"
+      },
+      "question": "What is the full form of EMI?"
+    },
+    "q48": {
+      "answer": "b",
+      "options": {
+        "a": "Multimeter",
+        "b": "Oscilloscope",
+        "c": "Spectrum Analyzer",
+        "d": "Logic Probe"
+      },
+      "question": "Which tool is used to view and analyze electrical signals over time?"
+    },
+    "q49": {
+      "answer": "b",
+      "options": {
+        "a": "Henry",
+        "b": "Farad",
+        "c": "Ohm",
+        "d": "Volt"
+      },
+      "question": "What is the unit of capacitance?"
+    },
+    "q5": {
+      "answer": "b",
+      "options": {
+        "a": "Faraday's Law",
+        "b": "Ohm's Law",
+        "c": "Kirchhoff's Voltage Law",
+        "d": "Newton's Law"
+      },
+      "question": "Which law relates voltage, current, and resistance in a circuit?"
+    },
+    "q50": {
+      "answer": "b",
+      "options": {
+        "a": "LDR",
+        "b": "Thermistor",
+        "c": "Potentiometer",
+        "d": "Varistor"
+      },
+      "question": "Which type of resistor has a resistance that changes with temperature?"
+    },
+    "q51": {
+      "answer": "b",
+      "options": {
+        "a": "To amplify AC signal",
+        "b": "To convert AC to pulsating DC",
+        "c": "To convert DC to AC",
+        "d": "To regulate DC voltage"
+      },
+      "question": "What is the primary function of a rectifier circuit?"
+    },
+    "q52": {
+      "answer": "b",
+      "options": {
+        "a": "Transformer",
+        "b": "Variable Resistor (Potentiometer)",
+        "c": "Capacitor",
+        "d": "Diode"
+      },
+      "question": "Which component is used to control the speed of a DC motor?"
+    },
+    "q53": {
+      "answer": "a",
+      "options": {
+        "a": "Silicon Controlled Rectifier",
+        "b": "System Control Register",
+        "c": "Standard Circuit Resistor",
+        "d": "Static Current Regulator"
+      },
+      "question": "What is the full form of SCR?"
+    },
+    "q54": {
+      "answer": "c",
+      "options": {
+        "a": "Diode",
+        "b": "Resistor",
+        "c": "Transistor",
+        "d": "Capacitor"
+      },
+      "question": "Which component is a three-terminal semiconductor device used for switching and amplification?"
+    },
+    "q55": {
+      "answer": "b",
+      "options": {
+        "a": "To generate heat",
+        "b": "To dissipate heat from electronic components",
+        "c": "To store heat",
+        "d": "To insulate components"
+      },
+      "question": "What is the purpose of a heat sink?"
+    },
+    "q56": {
+      "answer": "b",
+      "options": {
+        "a": "Chisel Tip",
+        "b": "Conical Tip (Pointed)",
+        "c": "Bevel Tip",
+        "d": "Hoof Tip"
+      },
+      "question": "Which type of soldering iron tip is best for fine pitch components?"
+    },
+    "q57": {
+      "answer": "b",
+      "options": {
+        "a": "Efficiency",
+        "b": "Gain",
+        "c": "Bandwidth",
+        "d": "Impedance"
+      },
+      "question": "What is the term for the ratio of output power to input power in an amplifier?"
+    },
+    "q58": {
+      "answer": "c",
+      "options": {
+        "a": "Inductor",
+        "b": "Resistor",
+        "c": "Capacitor",
+        "d": "Diode"
+      },
+      "question": "Which component is used to block DC while allowing AC to pass?"
+    },
+    "q59": {
+      "answer": "a",
+      "options": {
+        "a": "Light Dependent Resistor",
+        "b": "Low Drop Regulator",
+        "c": "Logic Data Register",
+        "d": "Linear Digital Resistor"
+      },
+      "question": "What is the full form of LDR?"
+    },
+    "q6": {
+      "answer": "c",
+      "options": {
+        "a": "To amplify current",
+        "b": "To store charge",
+        "c": "To allow current flow in one direction only",
+        "d": "To regulate voltage"
+      },
+      "question": "What is the primary function of a diode?"
+    },
+    "q60": {
+      "answer": "b",
+      "options": {
+        "a": "Fuse",
+        "b": "MCB (Miniature Circuit Breaker)",
+        "c": "Relay",
+        "d": "Contactor"
+      },
+      "question": "Which type of circuit breaker is commonly used in modern homes and offices?"
+    },
+    "q7": {
+      "answer": "c",
+      "options": {
+        "a": "Copper",
+        "b": "Gold",
+        "c": "Silicon",
+        "d": "Aluminum"
+      },
+      "question": "Which semiconductor material is commonly used to make transistors?"
+    },
+    "q8": {
+      "answer": "c",
+      "options": {
+        "a": "Liquid Emitting Diode",
+        "b": "Light Emitting Display",
+        "c": "Light Emitting Diode",
+        "d": "Low Emission Device"
+      },
+      "question": "What is the full form of LED?"
+    },
+    "q9": {
+      "answer": "c",
+      "options": {
+        "a": "Oscilloscope",
+        "b": "Function Generator",
+        "c": "Multimeter",
+        "d": "Logic Analyzer"
+      },
+      "question": "Which instrument is used to measure voltage, current, and resistance?"
+    }
+  },
+  "MS_Excel": {
+    "q101": {
+      "answer": "b",
+      "options": {
+        "a": "Range",
+        "b": "Cell",
+        "c": "Address",
+        "d": "Formula"
+      },
+      "question": "What is the intersection of a row and a column in an Excel worksheet called?"
+    },
+    "q102": {
+      "answer": "b",
+      "options": {
+        "a": "#",
+        "b": "=",
+        "c": "+",
+        "d": "("
+      },
+      "question": "Which symbol must all Excel formulas begin with?"
+    },
+    "q103": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + N",
+        "b": "Shift + F11",
+        "c": "Alt + F1",
+        "d": "Ctrl + W"
+      },
+      "question": "What is the shortcut key to insert a new worksheet?"
+    },
+    "q104": {
+      "answer": "c",
+      "options": {
+        "a": "SUM()",
+        "b": "AVERAGE()",
+        "c": "MAX()",
+        "d": "MIN()"
+      },
+      "question": "Which function is used to find the largest value in a range of cells?"
+    },
+    "q105": {
+      "answer": "b",
+      "options": {
+        "a": "The formula is incorrect",
+        "b": "The column is not wide enough to display the value",
+        "c": "The cell contains text instead of a number",
+        "d": "The cell reference is invalid"
+      },
+      "question": "What does the error value '#####' mean in an Excel cell?"
+    },
+    "q106": {
+      "answer": "c",
+      "options": {
+        "a": "Absolute Reference",
+        "b": "Mixed Reference",
+        "c": "Relative Reference",
+        "d": "External Reference"
+      },
+      "question": "Which type of cell reference changes when copied to another cell?"
+    },
+    "q107": {
+      "answer": "a",
+      "options": {
+        "a": "Left",
+        "b": "Right",
+        "c": "Center",
+        "d": "Justify"
+      },
+      "question": "What is the default alignment for text in an Excel cell?"
+    },
+    "q108": {
+      "answer": "b",
+      "options": {
+        "a": "AutoFormat",
+        "b": "Format Painter",
+        "c": "Conditional Formatting",
+        "d": "Styles"
+      },
+      "question": "Which feature allows you to quickly apply the formatting of one cell to another?"
+    },
+    "q109": {
+      "answer": "a",
+      "options": {
+        "a": "Vertical Look Up",
+        "b": "Value Look Up",
+        "c": "Variable Look Up",
+        "d": "Vector Look Up"
+      },
+      "question": "What is the full form of 'VLOOKUP'?"
+    },
+    "q110": {
+      "answer": "c",
+      "options": {
+        "a": "Bar Chart",
+        "b": "Line Chart",
+        "c": "Pie Chart",
+        "d": "Scatter Plot"
+      },
+      "question": "Which chart type is best suited for showing the proportion of parts to a whole?"
+    },
+    "q111": {
+      "answer": "b",
+      "options": {
+        "a": "F1",
+        "b": "F2",
+        "c": "F4",
+        "d": "F5"
+      },
+      "question": "What is the shortcut key to edit the contents of an active cell?"
+    },
+    "q112": {
+      "answer": "b",
+      "options": {
+        "a": "Sorting",
+        "b": "Filtering",
+        "c": "Data Validation",
+        "d": "Pivot Table"
+      },
+      "question": "Which feature is used to display only the data that meets certain criteria?"
+    },
+    "q113": {
+      "answer": "c",
+      "options": {
+        "a": "255",
+        "b": "1024",
+        "c": "32,767",
+        "d": "65,536"
+      },
+      "question": "What is the maximum number of characters a cell can contain in Excel?"
+    },
+    "q114": {
+      "answer": "c",
+      "options": {
+        "a": "COUNTIF()",
+        "b": "COUNTA()",
+        "c": "COUNT()",
+        "d": "COUNTBLANK()"
+      },
+      "question": "Which function is used to count the number of cells that contain numbers in a range?"
+    },
+    "q115": {
+      "answer": "a",
+      "options": {
+        "a": "8.43 characters",
+        "b": "10 characters",
+        "c": "12.5 characters",
+        "d": "15 characters"
+      },
+      "question": "What is the default column width in MS Excel?"
+    },
+    "q116": {
+      "answer": "a",
+      "options": {
+        "a": "Ctrl + Spacebar",
+        "b": "Shift + Spacebar",
+        "c": "Ctrl + A",
+        "d": "Ctrl + C"
+      },
+      "question": "What is the shortcut key to select the entire column?"
+    },
+    "q117": {
+      "answer": "c",
+      "options": {
+        "a": "SUM()",
+        "b": "COUNT()",
+        "c": "AVERAGE()",
+        "d": "MEDIAN()"
+      },
+      "question": "Which function is used to calculate the arithmetic mean of a range of numbers?"
+    },
+    "q118": {
+      "answer": "b",
+      "options": {
+        "a": "Cell",
+        "b": "Range",
+        "c": "Table",
+        "d": "Sheet"
+      },
+      "question": "What is the term for a group of contiguous cells in a worksheet?"
+    },
+    "q119": {
+      "answer": "b",
+      "options": {
+        "a": "Data Validation",
+        "b": "Cell Protection",
+        "c": "Conditional Formatting",
+        "d": "Filtering"
+      },
+      "question": "Which feature is used to prevent specific cells from being modified?"
+    },
+    "q120": {
+      "answer": "a",
+      "options": {
+        "a": "Ctrl + ;",
+        "b": "Ctrl + :",
+        "c": "Ctrl + Shift + ;",
+        "d": "Ctrl + D"
+      },
+      "question": "What is the shortcut key to insert the current date?"
+    },
+    "q121": {
+      "answer": "c",
+      "options": {
+        "a": "Relative Reference",
+        "b": "Absolute Reference",
+        "c": "Mixed Reference",
+        "d": "External Reference"
+      },
+      "question": "Which type of cell reference uses the dollar sign ($) to keep a row or column constant?"
+    },
+    "q122": {
+      "answer": "c",
+      "options": {
+        "a": "Input Function",
+        "b": "Information Function",
+        "c": "Logical Test",
+        "d": "Immediate Function"
+      },
+      "question": "What is the full form of 'IF' in the Excel IF function?"
+    },
+    "q123": {
+      "answer": "b",
+      "options": {
+        "a": "Home",
+        "b": "Insert",
+        "c": "Data",
+        "d": "Review"
+      },
+      "question": "Which tab contains the 'PivotTable' feature?"
+    },
+    "q124": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + Spacebar",
+        "b": "Shift + Spacebar",
+        "c": "Ctrl + R",
+        "d": "Shift + R"
+      },
+      "question": "What is the shortcut key to select the entire row?"
+    },
+    "q125": {
+      "answer": "d",
+      "options": {
+        "a": "SUM()",
+        "b": "AVERAGE()",
+        "c": "MAX()",
+        "d": "MIN()"
+      },
+      "question": "Which function is used to find the smallest value in a range of cells?"
+    },
+    "q126": {
+      "answer": "b",
+      "options": {
+        "a": ".xls",
+        "b": ".xlsx",
+        "c": ".xlsm",
+        "d": ".xltx"
+      },
+      "question": "What is the default file extension for an Excel workbook (2007 and later)?"
+    },
+    "q127": {
+      "answer": "c",
+      "options": {
+        "a": "Format Painter",
+        "b": "Cell Styles",
+        "c": "Conditional Formatting",
+        "d": "Theming"
+      },
+      "question": "Which feature is used to apply formatting to cells based on the data they contain (e.g., highlighting top 10 values)?"
+    },
+    "q128": {
+      "answer": "b",
+      "options": {
+        "a": "Splitting",
+        "b": "Merging",
+        "c": "Wrapping",
+        "d": "Centering"
+      },
+      "question": "What is the term for the process of combining two or more cells into a single cell?"
+    },
+    "q129": {
+      "answer": "b",
+      "options": {
+        "a": "COUNTIF()",
+        "b": "COUNTA()",
+        "c": "COUNT()",
+        "d": "COUNTBLANK()"
+      },
+      "question": "Which function is used to count the number of cells that are not empty in a range?"
+    },
+    "q130": {
+      "answer": "b",
+      "options": {
+        "a": "End key",
+        "b": "Ctrl + Arrow Key",
+        "c": "Shift + Arrow Key",
+        "d": "Home key"
+      },
+      "question": "What is the shortcut key to move to the last cell with data in the current row or column?"
+    },
+    "q131": {
+      "answer": "c",
+      "options": {
+        "a": "Pie Chart",
+        "b": "Bar Chart",
+        "c": "Line Chart",
+        "d": "Area Chart"
+      },
+      "question": "Which chart type is best for showing trends over time?"
+    },
+    "q132": {
+      "answer": "a",
+      "options": {
+        "a": "Sum If Function",
+        "b": "Summation of Immediate Fields",
+        "c": "Summation of If",
+        "d": "Summation of Items Found"
+      },
+      "question": "What is the full form of 'SUMIF'?"
+    },
+    "q133": {
+      "answer": "c",
+      "options": {
+        "a": "Insert",
+        "b": "Page Layout",
+        "c": "Data",
+        "d": "Review"
+      },
+      "question": "Which tab contains the 'Sort & Filter' options?"
+    },
+    "q134": {
+      "answer": "c",
+      "options": {
+        "a": "Ctrl + ;",
+        "b": "Ctrl + :",
+        "c": "Ctrl + Shift + ;",
+        "d": "Ctrl + T"
+      },
+      "question": "What is the shortcut key to insert the current time?"
+    },
+    "q135": {
+      "answer": "c",
+      "options": {
+        "a": "INT()",
+        "b": "TRUNC()",
+        "c": "ROUND()",
+        "d": "CEILING()"
+      },
+      "question": "Which function is used to round a number to a specified number of digits?"
+    },
+    "q136": {
+      "answer": "b",
+      "options": {
+        "a": "Column",
+        "b": "Row",
+        "c": "Cell",
+        "d": "Range"
+      },
+      "question": "What is the term for the horizontal division of a worksheet, identified by numbers?"
+    },
+    "q137": {
+      "answer": "b",
+      "options": {
+        "a": "Filtering",
+        "b": "Data Validation",
+        "c": "Conditional Formatting",
+        "d": "Pivot Table"
+      },
+      "question": "Which feature is used to create a drop-down list in a cell to restrict data entry?"
+    },
+    "q138": {
+      "answer": "a",
+      "options": {
+        "a": "Ctrl + 1",
+        "b": "Ctrl + F",
+        "c": "Ctrl + C",
+        "d": "Ctrl + Shift + F"
+      },
+      "question": "What is the shortcut key to open the 'Format Cells' dialog box?"
+    },
+    "q139": {
+      "answer": "c",
+      "options": {
+        "a": "TEXT()",
+        "b": "JOIN()",
+        "c": "CONCATENATE()",
+        "d": "STRING()"
+      },
+      "question": "Which function is used to join two or more text strings into one string?"
+    },
+    "q140": {
+      "answer": "a",
+      "options": {
+        "a": "Column",
+        "b": "Row",
+        "c": "Cell",
+        "d": "Range"
+      },
+      "question": "What is the term for the vertical division of a worksheet, identified by letters?"
+    },
+    "q141": {
+      "answer": "c",
+      "options": {
+        "a": "Sorting",
+        "b": "Filtering",
+        "c": "Pivot Table",
+        "d": "Subtotals"
+      },
+      "question": "Which feature is used to create a summary report by grouping and aggregating data?"
+    },
+    "q142": {
+      "answer": "c",
+      "options": {
+        "a": "Ctrl + +",
+        "b": "Ctrl + -",
+        "c": "Ctrl + Shift + +",
+        "d": "Both a and c"
+      },
+      "question": "What is the shortcut key to insert a new row?"
+    },
+    "q143": {
+      "answer": "c",
+      "options": {
+        "a": "DIVIDE()",
+        "b": "QUOTIENT()",
+        "c": "MOD()",
+        "d": "REMAINDER()"
+      },
+      "question": "Which function is used to find the remainder after a number is divided by a divisor?"
+    },
+    "q144": {
+      "answer": "a",
+      "options": {
+        "a": "Fill Handle",
+        "b": "AutoFill",
+        "c": "Copy Button",
+        "d": "Drag Handle"
+      },
+      "question": "What is the term for the small square at the bottom-right corner of a selected cell, used for copying formulas?"
+    },
+    "q145": {
+      "answer": "b",
+      "options": {
+        "a": "Formula Auditing",
+        "b": "Show Formulas",
+        "c": "Trace Precedents",
+        "d": "Evaluate Formula"
+      },
+      "question": "Which feature is used to display a formula instead of its result in a cell?"
+    },
+    "q146": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + X",
+        "b": "Delete key",
+        "c": "Backspace key",
+        "d": "Ctrl + D"
+      },
+      "question": "What is the shortcut key to delete the contents of a cell?"
+    },
+    "q147": {
+      "answer": "b",
+      "options": {
+        "a": "LOWER()",
+        "b": "UPPER()",
+        "c": "PROPER()",
+        "d": "TEXT()"
+      },
+      "question": "Which function is used to convert a text string to all uppercase letters?"
+    },
+    "q148": {
+      "answer": "b",
+      "options": {
+        "a": "Merging",
+        "b": "Splitting",
+        "c": "Wrapping",
+        "d": "Centering"
+      },
+      "question": "What is the term for the process of splitting a single cell into multiple cells?"
+    },
+    "q149": {
+      "answer": "d",
+      "options": {
+        "a": "COUNTIF()",
+        "b": "COUNTA()",
+        "c": "COUNT()",
+        "d": "COUNTBLANK()"
+      },
+      "question": "Which function is used to count the number of cells that are empty in a range?"
+    },
+    "q150": {
+      "answer": "d",
+      "options": {
+        "a": "Ctrl + F",
+        "b": "Ctrl + G",
+        "c": "Ctrl + H",
+        "d": "F5"
+      },
+      "question": "What is the shortcut key to open the 'Go To' dialog box?"
+    },
+    "q151": {
+      "answer": "b",
+      "options": {
+        "a": "AutoSum",
+        "b": "AutoFill",
+        "c": "Flash Fill",
+        "d": "Data Validation"
+      },
+      "question": "Which feature is used to quickly fill a series of data (e.g., dates, numbers) based on a pattern?"
+    },
+    "q152": {
+      "answer": "b",
+      "options": {
+        "a": "High Look Up",
+        "b": "Horizontal Look Up",
+        "c": "Header Look Up",
+        "d": "Hybrid Look Up"
+      },
+      "question": "What is the full form of 'HLOOKUP'?"
+    },
+    "q153": {
+      "answer": "c",
+      "options": {
+        "a": "Home",
+        "b": "Insert",
+        "c": "Data",
+        "d": "Formulas"
+      },
+      "question": "Which tab contains the 'What-If Analysis' tools (Goal Seek, Data Table)?"
+    },
+    "q154": {
+      "answer": "a",
+      "options": {
+        "a": "Ctrl + 9",
+        "b": "Ctrl + 0",
+        "c": "Ctrl + Shift + 9",
+        "d": "Ctrl + Shift + 0"
+      },
+      "question": "What is the shortcut key to hide the selected rows?"
+    },
+    "q155": {
+      "answer": "c",
+      "options": {
+        "a": "PV()",
+        "b": "FV()",
+        "c": "NPER()",
+        "d": "RATE()"
+      },
+      "question": "Which function is used to calculate the number of periods for an investment based on periodic, constant payments and a constant interest rate?"
+    },
+    "q156": {
+      "answer": "b",
+      "options": {
+        "a": "Filtering",
+        "b": "Sorting",
+        "c": "Grouping",
+        "d": "Validating"
+      },
+      "question": "What is the term for the process of arranging data in a specific order (e.g., ascending or descending)?"
+    },
+    "q157": {
+      "answer": "b",
+      "options": {
+        "a": "Split Window",
+        "b": "Freeze Panes",
+        "c": "Hide/Unhide",
+        "d": "Zoom"
+      },
+      "question": "Which feature is used to keep a row or column visible while scrolling through the rest of the worksheet?"
+    },
+    "q158": {
+      "answer": "c",
+      "options": {
+        "a": "Ctrl + +",
+        "b": "Ctrl + -",
+        "c": "Ctrl + Shift + +",
+        "d": "Both a and c"
+      },
+      "question": "What is the shortcut key to insert a new column?"
+    },
+    "q159": {
+      "answer": "c",
+      "options": {
+        "a": "DATE()",
+        "b": "TIME()",
+        "c": "NOW()",
+        "d": "TODAY()"
+      },
+      "question": "Which function is used to find the current date and time?"
+    },
+    "q160": {
+      "answer": "a",
+      "options": {
+        "a": "Embedded Chart",
+        "b": "Chart Sheet",
+        "c": "Sparkline",
+        "d": "Pivot Chart"
+      },
+      "question": "What is the term for a chart that is embedded within a worksheet rather than on a separate chart sheet?"
+    },
+    "q161": {
+      "answer": "b",
+      "options": {
+        "a": "AutoFill",
+        "b": "Flash Fill",
+        "c": "AutoCorrect",
+        "d": "Data Validation"
+      },
+      "question": "Which feature is used to quickly fill a column with data based on the pattern of the first few entries?"
+    },
+    "q162": {
+      "answer": "c",
+      "options": {
+        "a": "Count If Function",
+        "b": "Count If Single",
+        "c": "Count If Multiple Criteria",
+        "d": "Count If Sum"
+      },
+      "question": "What is the full form of 'COUNTIFS'?"
+    },
+    "q163": {
+      "answer": "d",
+      "options": {
+        "a": "Home",
+        "b": "Insert",
+        "c": "Data",
+        "d": "Review"
+      },
+      "question": "Which tab contains the 'Protect Sheet' and 'Protect Workbook' options?"
+    },
+    "q164": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + 9",
+        "b": "Ctrl + 0",
+        "c": "Ctrl + Shift + 9",
+        "d": "Ctrl + Shift + 0"
+      },
+      "question": "What is the shortcut key to hide the selected columns?"
+    },
+    "q165": {
+      "answer": "a",
+      "options": {
+        "a": "PV()",
+        "b": "FV()",
+        "c": "NPER()",
+        "d": "RATE()"
+      },
+      "question": "Which function is used to find the present value of an investment?"
+    },
+    "q166": {
+      "answer": "b",
+      "options": {
+        "a": "Merge and Center",
+        "b": "Text to Columns",
+        "c": "Data Validation",
+        "d": "Flash Fill"
+      },
+      "question": "What is the term for the process of breaking down a single cell's content into multiple columns?"
+    },
+    "q167": {
+      "answer": "b",
+      "options": {
+        "a": "Merge and Center",
+        "b": "Wrap Text",
+        "c": "Text to Columns",
+        "d": "Format Painter"
+      },
+      "question": "Which feature is used to display a cell's content on multiple lines within the cell?"
+    },
+    "q168": {
+      "answer": "c",
+      "options": {
+        "a": "Ctrl + Shift + 1",
+        "b": "Ctrl + Shift + 2",
+        "c": "Ctrl + Shift + ~",
+        "d": "Ctrl + Shift + $"
+      },
+      "question": "What is the shortcut key to apply the 'General' number format?"
+    },
+    "q169": {
+      "answer": "b",
+      "options": {
+        "a": "FIND()",
+        "b": "LEN()",
+        "c": "MID()",
+        "d": "COUNT()"
+      },
+      "question": "Which function is used to find the number of characters in a text string?"
+    },
+    "q170": {
+      "answer": "b",
+      "options": {
+        "a": "Embedded Chart",
+        "b": "Chart Sheet",
+        "c": "Sparkline",
+        "d": "Pivot Chart"
+      },
+      "question": "What is the term for a chart that is displayed on its own sheet in the workbook?"
+    },
+    "q171": {
+      "answer": "c",
+      "options": {
+        "a": "Embedded Chart",
+        "b": "Chart Sheet",
+        "c": "Sparkline",
+        "d": "Pivot Chart"
+      },
+      "question": "Which feature is used to create a small chart within a single cell to show data trends?"
+    },
+    "q172": {
+      "answer": "a",
+      "options": {
+        "a": "Payment",
+        "b": "Present Month Total",
+        "c": "Projected Monthly Total",
+        "d": "Principal and Maturity Time"
+      },
+      "question": "What is the full form of 'PMT' in the Excel PMT function?"
+    },
+    "q173": {
+      "answer": "d",
+      "options": {
+        "a": "Home",
+        "b": "Insert",
+        "c": "Data",
+        "d": "Formulas"
+      },
+      "question": "Which tab contains the 'Function Library' with all the formulas?"
+    },
+    "q174": {
+      "answer": "b",
+      "options": {
+        "a": "Home",
+        "b": "Ctrl + Home",
+        "c": "Ctrl + Page Up",
+        "d": "Alt + Home"
+      },
+      "question": "What is the shortcut key to move to the beginning of the worksheet (Cell A1)?"
+    },
+    "q175": {
+      "answer": "b",
+      "options": {
+        "a": "PV()",
+        "b": "FV()",
+        "c": "NPER()",
+        "d": "RATE()"
+      },
+      "question": "Which function is used to find the future value of an investment?"
+    },
+    "q176": {
+      "answer": "b",
+      "options": {
+        "a": "Importing",
+        "b": "Connecting",
+        "c": "Embedding",
+        "d": "Validating"
+      },
+      "question": "What is the term for the process of linking data from an external source to an Excel workbook?"
+    },
+    "q177": {
+      "answer": "c",
+      "options": {
+        "a": "Filtering",
+        "b": "Sorting",
+        "c": "Subtotals",
+        "d": "Pivot Table"
+      },
+      "question": "Which feature is used to create a summary of data with multiple levels of grouping?"
+    },
+    "q178": {
+      "answer": "a",
+      "options": {
+        "a": "Shift + F3",
+        "b": "Ctrl + F3",
+        "c": "Alt + F3",
+        "d": "F3"
+      },
+      "question": "What is the shortcut key to open the 'Insert Function' dialog box?"
+    },
+    "q179": {
+      "answer": "a",
+      "options": {
+        "a": "LOWER()",
+        "b": "UPPER()",
+        "c": "PROPER()",
+        "d": "TEXT()"
+      },
+      "question": "Which function is used to convert a text string to all lowercase letters?"
+    },
+    "q180": {
+      "answer": "c",
+      "options": {
+        "a": "Data Formatting",
+        "b": "Chart Layout",
+        "c": "Chart Design",
+        "d": "Chart Analysis"
+      },
+      "question": "What is the term for the process of changing the appearance of a chart (e.g., colors, styles)?"
+    },
+    "q181": {
+      "answer": "d",
+      "options": {
+        "a": "DATE()",
+        "b": "TIME()",
+        "c": "NOW()",
+        "d": "TODAY()"
+      },
+      "question": "Which function is used to return the current date only?"
+    },
+    "q182": {
+      "answer": "c",
+      "options": {
+        "a": "Ctrl + Shift + 1",
+        "b": "Ctrl + Shift + 2",
+        "c": "Ctrl + Shift + 4",
+        "d": "Ctrl + Shift + $"
+      },
+      "question": "What is the shortcut key to apply the 'Currency' number format?"
+    },
+    "q183": {
+      "answer": "b",
+      "options": {
+        "a": "Scenario Manager",
+        "b": "Goal Seek",
+        "c": "Data Table",
+        "d": "Solver"
+      },
+      "question": "Which feature is used to find the input value needed to achieve a desired result from a formula?"
+    },
+    "q184": {
+      "answer": "c",
+      "options": {
+        "a": "Formula Auditing",
+        "b": "Show Formulas",
+        "c": "Calculation",
+        "d": "Evaluate Formula"
+      },
+      "question": "What is the term for the process of displaying a formula's result in a cell?"
+    },
+    "q185": {
+      "answer": "c",
+      "options": {
+        "a": "LEFT()",
+        "b": "RIGHT()",
+        "c": "MID()",
+        "d": "FIND()"
+      },
+      "question": "Which function is used to extract a specified number of characters from the middle of a text string?"
+    },
+    "q186": {
+      "answer": "b",
+      "options": {
+        "a": "End key",
+        "b": "Ctrl + End",
+        "c": "Shift + End",
+        "d": "Alt + End"
+      },
+      "question": "What is the shortcut key to move to the last cell of the worksheet (bottom-right corner)?"
+    },
+    "q187": {
+      "answer": "a",
+      "options": {
+        "a": "DAYS()",
+        "b": "DATEDIF()",
+        "c": "NETWORKDAYS()",
+        "d": "DATEVALUE()"
+      },
+      "question": "Which function is used to calculate the total number of days between two dates?"
+    },
+    "q188": {
+      "answer": "b",
+      "options": {
+        "a": "Relative Copying",
+        "b": "Absolute Copying",
+        "c": "Mixed Copying",
+        "d": "AutoFill"
+      },
+      "question": "What is the term for the process of copying a formula while keeping the cell references exactly the same?"
+    },
+    "q189": {
+      "answer": "b",
+      "options": {
+        "a": "Sparkline",
+        "b": "Conditional Formatting (Icon Sets)",
+        "c": "Embedded Chart",
+        "d": "SmartArt"
+      },
+      "question": "Which feature is used to create a visual representation of data using shapes and icons within a cell?"
+    },
+    "q190": {
+      "answer": "d",
+      "options": {
+        "a": "Ctrl + Shift + 1",
+        "b": "Ctrl + Shift + 5",
+        "c": "Ctrl + Shift + %",
+        "d": "Both b and c"
+      },
+      "question": "What is the shortcut key to apply the 'Percentage' number format?"
+    },
+    "q191": {
+      "answer": "c",
+      "options": {
+        "a": "LEFT()",
+        "b": "RIGHT()",
+        "c": "FIND()",
+        "d": "MID()"
+      },
+      "question": "Which function is used to find the position of a text string within another text string?"
+    },
+    "q192": {
+      "answer": "b",
+      "options": {
+        "a": "Alignment",
+        "b": "Orientation",
+        "c": "Wrap Text",
+        "d": "Merge"
+      },
+      "question": "What is the term for the process of displaying a cell's content at an angle?"
+    },
+    "q193": {
+      "answer": "b",
+      "options": {
+        "a": "Pivot Table",
+        "b": "Excel Table (Format as Table)",
+        "c": "Data Validation",
+        "d": "Subtotals"
+      },
+      "question": "Which feature is used to create a table that automatically expands when new data is added?"
+    },
+    "q194": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + =",
+        "b": "Alt + =",
+        "c": "Shift + =",
+        "d": "Ctrl + Shift + ="
+      },
+      "question": "What is the shortcut key to insert a formula for the sum of a range of cells?"
+    },
+    "q195": {
+      "answer": "c",
+      "options": {
+        "a": "DAYS()",
+        "b": "DATEDIF()",
+        "c": "NETWORKDAYS()",
+        "d": "WORKDAY()"
+      },
+      "question": "Which function is used to calculate the number of working days between two dates?"
+    },
+    "q196": {
+      "answer": "c",
+      "options": {
+        "a": "Filtering",
+        "b": "Sorting",
+        "c": "Remove Duplicates",
+        "d": "Data Validation"
+      },
+      "question": "What is the term for the process of removing duplicate entries from a range of data?"
+    },
+    "q197": {
+      "answer": "c",
+      "options": {
+        "a": "Goal Seek",
+        "b": "Data Table",
+        "c": "Scenario Manager",
+        "d": "Solver"
+      },
+      "question": "Which feature is used to create multiple scenarios with different input values to see the resulting output?"
+    },
+    "q198": {
+      "answer": "a",
+      "options": {
+        "a": "Ctrl + F",
+        "b": "Ctrl + G",
+        "c": "Ctrl + H",
+        "d": "F5"
+      },
+      "question": "What is the shortcut key to open the 'Find' dialog box?"
+    },
+    "q199": {
+      "answer": "a",
+      "options": {
+        "a": "LEFT()",
+        "b": "RIGHT()",
+        "c": "MID()",
+        "d": "FIND()"
+      },
+      "question": "Which function is used to extract a specified number of characters from the left side of a text string?"
+    },
+    "q200": {
+      "answer": "a",
+      "options": {
+        "a": "AutoFit",
+        "b": "Resize",
+        "c": "Adjust",
+        "d": "Format"
+      },
+      "question": "What is the term for the process of changing the size of a column or row to fit the content automatically?"
+    }
+  },
+  "MS_Word": {
+    "q1": {
+      "answer": "a",
+      "options": {
+        "a": "Ctrl + S",
+        "b": "Ctrl + C",
+        "c": "Ctrl + V",
+        "d": "Ctrl + X"
+      },
+      "question": "What is the shortcut key to save a document in MS Word?"
+    },
+    "q10": {
+      "answer": "a",
+      "options": {
+        "a": "Styles",
+        "b": "Templates",
+        "c": "Macros",
+        "d": "Mail Merge"
+      },
+      "question": "Which option is used to apply a pre-defined design and formatting to a document?"
+    },
+    "q100": {
+      "answer": "d",
+      "options": {
+        "a": "Copy and Paste",
+        "b": "Cut and Paste",
+        "c": "Drag and Drop",
+        "d": "Both b and c"
+      },
+      "question": "What is the term for the process of moving text from one location to another?"
+    },
+    "q11": {
+      "answer": "b",
+      "options": {
+        "a": "0 rows and 0 columns",
+        "b": "1 row and 1 column",
+        "c": "2 rows and 1 column",
+        "d": "2 rows and 2 columns"
+      },
+      "question": "What is the minimum number of rows and columns a Word table can have?"
+    },
+    "q12": {
+      "answer": "a",
+      "options": {
+        "a": "Mail Merge",
+        "b": "Hyperlink",
+        "c": "Bookmark",
+        "d": "Macro"
+      },
+      "question": "Which option is used to send the same letter to multiple recipients?"
+    },
+    "q13": {
+      "answer": "b",
+      "options": {
+        "a": "Landscape",
+        "b": "Portrait",
+        "c": "Horizontal",
+        "d": "Vertical"
+      },
+      "question": "What is the default orientation of a page in MS Word?"
+    },
+    "q14": {
+      "answer": "b",
+      "options": {
+        "a": "Page Up",
+        "b": "Home",
+        "c": "Ctrl + Home",
+        "d": "End"
+      },
+      "question": "Which key is used to move the cursor to the beginning of the line?"
+    },
+    "q15": {
+      "answer": "a",
+      "options": {
+        "a": "72",
+        "b": "100",
+        "c": "120",
+        "d": "1638"
+      },
+      "question": "What is the maximum font size you can select from the Font Size drop-down list?"
+    },
+    "q16": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + O",
+        "b": "Ctrl + N",
+        "c": "Ctrl + P",
+        "d": "Ctrl + W"
+      },
+      "question": "What is the shortcut key to open a new blank document?"
+    },
+    "q17": {
+      "answer": "b",
+      "options": {
+        "a": "Font Style",
+        "b": "Change Case",
+        "c": "Text Effects",
+        "d": "Clear Formatting"
+      },
+      "question": "Which option is used to change the case of selected text (e.g., to UPPERCASE or lowercase)?"
+    },
+    "q18": {
+      "answer": "b",
+      "options": {
+        "a": "Single",
+        "b": "1.15",
+        "c": "Double",
+        "d": "1.5"
+      },
+      "question": "What is the default line spacing in MS Word?"
+    },
+    "q19": {
+      "answer": "c",
+      "options": {
+        "a": "Table",
+        "b": "SmartArt",
+        "c": "Text Box",
+        "d": "Quick Parts"
+      },
+      "question": "Which feature is used to insert a pre-formatted block of text, such as a quote or sidebar?"
+    },
+    "q2": {
+      "answer": "b",
+      "options": {
+        "a": "Header and Footer",
+        "b": "Bullets and Numbering",
+        "c": "WordArt",
+        "d": "Table"
+      },
+      "question": "Which feature is used to create a list with symbols or numbers?"
+    },
+    "q20": {
+      "answer": "c",
+      "options": {
+        "a": "Ctrl + L",
+        "b": "Ctrl + R",
+        "c": "Ctrl + E",
+        "d": "Ctrl + J"
+      },
+      "question": "What is the shortcut key to center-align the selected text?"
+    },
+    "q21": {
+      "answer": "b",
+      "options": {
+        "a": "Home",
+        "b": "Insert",
+        "c": "Design",
+        "d": "View"
+      },
+      "question": "Which tab is used to insert pictures, shapes, and charts?"
+    },
+    "q22": {
+      "answer": "b",
+      "options": {
+        "a": "Hyperlink",
+        "b": "Bookmark",
+        "c": "Cross-reference",
+        "d": "Footnote"
+      },
+      "question": "What is the term for a reference to a specific place in a document, like a heading or a figure?"
+    },
+    "q23": {
+      "answer": "d",
+      "options": {
+        "a": "Print Layout",
+        "b": "Read Mode",
+        "c": "Outline View",
+        "d": "Draft View"
+      },
+      "question": "Which feature allows you to view a document in a simplified format without margins, headers, or footers?"
+    },
+    "q24": {
+      "answer": "c",
+      "options": {
+        "a": "Ctrl + I",
+        "b": "Ctrl + U",
+        "c": "Ctrl + B",
+        "d": "Ctrl + Shift + B"
+      },
+      "question": "What is the shortcut key to apply Bold formatting?"
+    },
+    "q25": {
+      "answer": "c",
+      "options": {
+        "a": "Header",
+        "b": "Footer",
+        "c": "Page Number",
+        "d": "Watermark"
+      },
+      "question": "Which option is used to insert a page number at the top or bottom of a page?"
+    },
+    "q26": {
+      "answer": "b",
+      "options": {
+        "a": "Chart",
+        "b": "Icon",
+        "c": "SmartArt",
+        "d": "Clip Art"
+      },
+      "question": "What is the term for a small image or symbol used to represent an idea or concept?"
+    },
+    "q27": {
+      "answer": "b",
+      "options": {
+        "a": "Font Color",
+        "b": "Text Highlight Color",
+        "c": "Shading",
+        "d": "Text Effects"
+      },
+      "question": "Which feature is used to highlight text in a document?"
+    },
+    "q28": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + [",
+        "b": "Ctrl + ]",
+        "c": "Ctrl + <",
+        "d": "Ctrl + >"
+      },
+      "question": "What is the shortcut key to increase the font size of selected text?"
+    },
+    "q29": {
+      "answer": "c",
+      "options": {
+        "a": "Home",
+        "b": "Insert",
+        "c": "References",
+        "d": "Layout"
+      },
+      "question": "Which tab contains the 'Table of Contents' feature?"
+    },
+    "q3": {
+      "answer": "c",
+      "options": {
+        "a": ".doc",
+        "b": ".txt",
+        "c": ".docx",
+        "d": ".pdf"
+      },
+      "question": "What is the default file extension for a document created in MS Word 2019?"
+    },
+    "q30": {
+      "answer": "b",
+      "options": {
+        "a": "Header",
+        "b": "Footer",
+        "c": "Footnote",
+        "d": "Endnote"
+      },
+      "question": "What is the term for a line of text that appears at the bottom of every page?"
+    },
+    "q31": {
+      "answer": "c",
+      "options": {
+        "a": "Tabs",
+        "b": "Indents",
+        "c": "Columns",
+        "d": "Breaks"
+      },
+      "question": "Which option is used to create newspaper-style columns in a document?"
+    },
+    "q32": {
+      "answer": "d",
+      "options": {
+        "a": "Ctrl + L",
+        "b": "Ctrl + R",
+        "c": "Ctrl + E",
+        "d": "Ctrl + J"
+      },
+      "question": "What is the shortcut key to justify-align the selected text?"
+    },
+    "q33": {
+      "answer": "b",
+      "options": {
+        "a": "Spelling Check",
+        "b": "AutoCorrect",
+        "c": "Thesaurus",
+        "d": "Grammar Check"
+      },
+      "question": "Which feature is used to automatically correct common typing errors (e.g., 'teh' to 'the')?"
+    },
+    "q34": {
+      "answer": "c",
+      "options": {
+        "a": "Times New Roman",
+        "b": "Arial",
+        "c": "Calibri",
+        "d": "Verdana"
+      },
+      "question": "What is the default font in MS Word (since Word 2007)?"
+    },
+    "q35": {
+      "answer": "c",
+      "options": {
+        "a": "Print Layout",
+        "b": "Read Mode",
+        "c": "Outline View",
+        "d": "Draft View"
+      },
+      "question": "Which view is best for quickly editing the text content of a document, especially long ones?"
+    },
+    "q36": {
+      "answer": "a",
+      "options": {
+        "a": "Ctrl + Enter",
+        "b": "Ctrl + Shift + Enter",
+        "c": "Alt + Enter",
+        "d": "Shift + Enter"
+      },
+      "question": "What is the shortcut key to insert a page break?"
+    },
+    "q37": {
+      "answer": "b",
+      "options": {
+        "a": "Track Changes",
+        "b": "Restrict Editing",
+        "c": "Compare",
+        "d": "Accept/Reject Changes"
+      },
+      "question": "Which feature is used to protect a document from unauthorized changes?"
+    },
+    "q38": {
+      "answer": "a",
+      "options": {
+        "a": "Header",
+        "b": "Footer",
+        "c": "Footnote",
+        "d": "Endnote"
+      },
+      "question": "What is the term for a line of text that appears at the top of every page?"
+    },
+    "q39": {
+      "answer": "b",
+      "options": {
+        "a": "Equation",
+        "b": "Symbol",
+        "c": "WordArt",
+        "d": "Text Box"
+      },
+      "question": "Which option is used to insert a symbol or special character that is not on the keyboard?"
+    },
+    "q4": {
+      "answer": "c",
+      "options": {
+        "a": "Print Layout View",
+        "b": "Outline View",
+        "c": "Web Layout View",
+        "d": "Draft View"
+      },
+      "question": "Which view displays the document as it would look on a web page?"
+    },
+    "q40": {
+      "answer": "a",
+      "options": {
+        "a": "Ctrl + [",
+        "b": "Ctrl + ]",
+        "c": "Ctrl + <",
+        "d": "Ctrl + >"
+      },
+      "question": "What is the shortcut key to decrease the font size of selected text?"
+    },
+    "q41": {
+      "answer": "c",
+      "options": {
+        "a": "Home",
+        "b": "Insert",
+        "c": "Design",
+        "d": "Layout"
+      },
+      "question": "Which tab contains the 'Watermark' and 'Page Color' options?"
+    },
+    "q42": {
+      "answer": "b",
+      "options": {
+        "a": "Indent",
+        "b": "Margin",
+        "c": "Spacing",
+        "d": "Gutter"
+      },
+      "question": "What is the term for the space between the text and the edge of the page?"
+    },
+    "q43": {
+      "answer": "b",
+      "options": {
+        "a": "Text Effect",
+        "b": "Drop Cap",
+        "c": "WordArt",
+        "d": "Initial Letter"
+      },
+      "question": "Which feature is used to create a large capital letter at the beginning of a paragraph?"
+    },
+    "q44": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + S",
+        "b": "Ctrl + P",
+        "c": "Ctrl + O",
+        "d": "Ctrl + F2"
+      },
+      "question": "What is the shortcut key to open the 'Print' dialog box?"
+    },
+    "q45": {
+      "answer": "c",
+      "options": {
+        "a": "Header",
+        "b": "Footer",
+        "c": "Footnote",
+        "d": "Endnote"
+      },
+      "question": "Which feature is used to insert a small piece of text at the bottom of a page to provide additional information?"
+    },
+    "q46": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + E",
+        "b": "Ctrl + A",
+        "c": "Ctrl + S",
+        "d": "Ctrl + D"
+      },
+      "question": "What is the shortcut key to select the entire document?"
+    },
+    "q47": {
+      "answer": "b",
+      "options": {
+        "a": "Shading",
+        "b": "Page Color",
+        "c": "Text Highlight Color",
+        "d": "Fill Color"
+      },
+      "question": "Which option is used to change the background color of a page?"
+    },
+    "q48": {
+      "answer": "b",
+      "options": {
+        "a": "Merging",
+        "b": "Integrating",
+        "c": "Linking",
+        "d": "Embedding"
+      },
+      "question": "What is the term for the process of combining text and graphics from different sources into a single document?"
+    },
+    "q49": {
+      "answer": "a",
+      "options": {
+        "a": "Template",
+        "b": "Style",
+        "c": "Theme",
+        "d": "Macro"
+      },
+      "question": "Which feature is used to create a master document from which other documents can be created?"
+    },
+    "q5": {
+      "answer": "b",
+      "options": {
+        "a": "Redo the last action",
+        "b": "Undo the last action",
+        "c": "Zoom in",
+        "d": "Close the document"
+      },
+      "question": "What is the function of 'Ctrl + Z' in MS Word?"
+    },
+    "q50": {
+      "answer": "a",
+      "options": {
+        "a": "Ctrl + I",
+        "b": "Ctrl + U",
+        "c": "Ctrl + B",
+        "d": "Ctrl + Shift + I"
+      },
+      "question": "What is the shortcut key to apply Italic formatting?"
+    },
+    "q51": {
+      "answer": "c",
+      "options": {
+        "a": "Home",
+        "b": "Insert",
+        "c": "Review",
+        "d": "View"
+      },
+      "question": "Which tab contains the 'Comments' and 'Track Changes' features?"
+    },
+    "q52": {
+      "answer": "c",
+      "options": {
+        "a": "Template",
+        "b": "Style",
+        "c": "Theme",
+        "d": "Macro"
+      },
+      "question": "What is the term for a collection of pre-designed formatting settings that can be applied to a document?"
+    },
+    "q53": {
+      "answer": "b",
+      "options": {
+        "a": "Table of Contents",
+        "b": "Index",
+        "c": "Bibliography",
+        "d": "Glossary"
+      },
+      "question": "Which feature is used to create a list of terms and their definitions at the end of a document?"
+    },
+    "q54": {
+      "answer": "b",
+      "options": {
+        "a": "F7",
+        "b": "Shift + F7",
+        "c": "Ctrl + F7",
+        "d": "Alt + F7"
+      },
+      "question": "What is the shortcut key to open the 'Thesaurus'?"
+    },
+    "q55": {
+      "answer": "b",
+      "options": {
+        "a": "Symbol",
+        "b": "Equation",
+        "c": "SmartArt",
+        "d": "Text Box"
+      },
+      "question": "Which option is used to insert a mathematical formula into a document?"
+    },
+    "q56": {
+      "answer": "b",
+      "options": {
+        "a": "Editing",
+        "b": "Formatting",
+        "c": "Proofing",
+        "d": "Reviewing"
+      },
+      "question": "What is the term for the process of changing the appearance of text and paragraphs?"
+    },
+    "q57": {
+      "answer": "b",
+      "options": {
+        "a": "Text Highlight Color",
+        "b": "Font Color",
+        "c": "Shading",
+        "d": "Fill Color"
+      },
+      "question": "Which option is used to change the color of the text?"
+    },
+    "q58": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + I",
+        "b": "Ctrl + U",
+        "c": "Ctrl + B",
+        "d": "Ctrl + Shift + U"
+      },
+      "question": "What is the shortcut key to apply Underline formatting?"
+    },
+    "q59": {
+      "answer": "c",
+      "options": {
+        "a": "Table of Contents",
+        "b": "Index",
+        "c": "Bibliography",
+        "d": "Footnote"
+      },
+      "question": "Which feature is used to create a list of sources cited in a document?"
+    },
+    "q6": {
+      "answer": "c",
+      "options": {
+        "a": "Home",
+        "b": "Insert",
+        "c": "Layout",
+        "d": "Review"
+      },
+      "question": "Which tab contains the 'Page Setup' group (Margins, Orientation, Size)?"
+    },
+    "q60": {
+      "answer": "c",
+      "options": {
+        "a": "Margin",
+        "b": "Indentation",
+        "c": "Line Spacing",
+        "d": "Paragraph Spacing"
+      },
+      "question": "What is the term for the space between lines of text?"
+    },
+    "q61": {
+      "answer": "b",
+      "options": {
+        "a": "Decrease Indent",
+        "b": "Increase Indent",
+        "c": "Tab Stop",
+        "d": "Margin Change"
+      },
+      "question": "Which option is used to move a paragraph further away from the left margin?"
+    },
+    "q62": {
+      "answer": "a",
+      "options": {
+        "a": "Ctrl + L",
+        "b": "Ctrl + R",
+        "c": "Ctrl + E",
+        "d": "Ctrl + J"
+      },
+      "question": "What is the shortcut key to left-align the selected text?"
+    },
+    "q63": {
+      "answer": "b",
+      "options": {
+        "a": "Mail Merge",
+        "b": "Form Controls",
+        "c": "Track Changes",
+        "d": "Macros"
+      },
+      "question": "Which feature is used to create a document that can be filled out electronically?"
+    },
+    "q64": {
+      "answer": "c",
+      "options": {
+        "a": "Web Layout",
+        "b": "Outline View",
+        "c": "Print Layout",
+        "d": "Draft View"
+      },
+      "question": "What is the default view when opening a new document in MS Word?"
+    },
+    "q65": {
+      "answer": "c",
+      "options": {
+        "a": "Track Changes",
+        "b": "Restrict Editing",
+        "c": "Compare",
+        "d": "Review Pane"
+      },
+      "question": "Which feature is used to compare two versions of a document and show the differences?"
+    },
+    "q66": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + F",
+        "b": "Ctrl + D",
+        "c": "Ctrl + E",
+        "d": "Ctrl + Shift + F"
+      },
+      "question": "What is the shortcut key to open the 'Font' dialog box?"
+    },
+    "q67": {
+      "answer": "b",
+      "options": {
+        "a": "Online Pictures",
+        "b": "Pictures (This Device)",
+        "c": "Clip Art",
+        "d": "SmartArt"
+      },
+      "question": "Which option is used to insert a picture from your computer into the document?"
+    },
+    "q68": {
+      "answer": "b",
+      "options": {
+        "a": "Splitting Cells",
+        "b": "Merging Cells",
+        "c": "Distributing Columns",
+        "d": "AutoFit"
+      },
+      "question": "What is the term for the process of combining adjacent cells in a table?"
+    },
+    "q69": {
+      "answer": "c",
+      "options": {
+        "a": "Insert",
+        "b": "Design",
+        "c": "Home",
+        "d": "Layout"
+      },
+      "question": "Which tab contains the 'Superscript' and 'Subscript' options?"
+    },
+    "q7": {
+      "answer": "b",
+      "options": {
+        "a": "Margin added to the left side",
+        "b": "Margin added to the binding side of the page when printing",
+        "c": "Margin added to the bottom of the page",
+        "d": "Margin added to the right side"
+      },
+      "question": "What is a 'Gutter Margin'?"
+    },
+    "q70": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + L",
+        "b": "Ctrl + R",
+        "c": "Ctrl + E",
+        "d": "Ctrl + J"
+      },
+      "question": "What is the shortcut key to right-align the selected text?"
+    },
+    "q71": {
+      "answer": "c",
+      "options": {
+        "a": "Index",
+        "b": "Table of Figures",
+        "c": "Table of Contents",
+        "d": "Bibliography"
+      },
+      "question": "Which feature is used to create a list of all the headings in a document?"
+    },
+    "q72": {
+      "answer": "c",
+      "options": {
+        "a": "Template",
+        "b": "Style",
+        "c": "Macro",
+        "d": "Function"
+      },
+      "question": "What is the term for a pre-recorded sequence of commands that can be executed with a single action?"
+    },
+    "q73": {
+      "answer": "c",
+      "options": {
+        "a": "Text Box",
+        "b": "Quick Parts",
+        "c": "Date and Time",
+        "d": "Field"
+      },
+      "question": "Which option is used to insert a date and time that updates automatically?"
+    },
+    "q74": {
+      "answer": "d",
+      "options": {
+        "a": "Ctrl + F4",
+        "b": "Alt + F4",
+        "c": "Ctrl + W",
+        "d": "Both a and c"
+      },
+      "question": "What is the shortcut key to close the current document?"
+    },
+    "q75": {
+      "answer": "b",
+      "options": {
+        "a": "Text Effects",
+        "b": "WordArt",
+        "c": "SmartArt",
+        "d": "Drop Cap"
+      },
+      "question": "Which feature is used to apply a decorative style to text (e.g., curved, shadowed)?"
+    },
+    "q76": {
+      "answer": "b",
+      "options": {
+        "a": "Cropping",
+        "b": "Resizing",
+        "c": "Wrapping",
+        "d": "Formatting"
+      },
+      "question": "What is the term for the process of changing the size of a picture or shape?"
+    },
+    "q77": {
+      "answer": "d",
+      "options": {
+        "a": "Border",
+        "b": "Line",
+        "c": "Shape",
+        "d": "Horizontal Line"
+      },
+      "question": "Which option is used to insert a horizontal line across the page?"
+    },
+    "q78": {
+      "answer": "c",
+      "options": {
+        "a": "Ctrl + F",
+        "b": "Ctrl + H",
+        "c": "Ctrl + G",
+        "d": "Ctrl + Shift + G"
+      },
+      "question": "What is the shortcut key to open the 'Go To' tab in the Find and Replace dialog box?"
+    },
+    "q79": {
+      "answer": "c",
+      "options": {
+        "a": "Thesaurus",
+        "b": "AutoCorrect",
+        "c": "Custom Dictionary",
+        "d": "Spelling & Grammar"
+      },
+      "question": "Which feature is used to create a custom dictionary for specialized terms?"
+    },
+    "q8": {
+      "answer": "c",
+      "options": {
+        "a": "Thesaurus",
+        "b": "Word Count",
+        "c": "Spelling & Grammar",
+        "d": "Track Changes"
+      },
+      "question": "Which feature is used to check the spelling and grammar of the document?"
+    },
+    "q80": {
+      "answer": "b",
+      "options": {
+        "a": "Resizing",
+        "b": "Cropping",
+        "c": "Wrapping",
+        "d": "Formatting"
+      },
+      "question": "What is the term for the process of removing unwanted parts of an image?"
+    },
+    "q81": {
+      "answer": "c",
+      "options": {
+        "a": "Home",
+        "b": "Insert",
+        "c": "Design",
+        "d": "Layout"
+      },
+      "question": "Which tab contains the 'Page Borders' option?"
+    },
+    "q82": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + Z",
+        "b": "Ctrl + Y",
+        "c": "Ctrl + R",
+        "d": "Ctrl + Shift + Z"
+      },
+      "question": "What is the shortcut key to repeat the last action?"
+    },
+    "q83": {
+      "answer": "c",
+      "options": {
+        "a": "Table of Contents",
+        "b": "Index",
+        "c": "Table of Figures",
+        "d": "Bibliography"
+      },
+      "question": "Which feature is used to create a list of all the figures, tables, or equations in a document?"
+    },
+    "q84": {
+      "answer": "b",
+      "options": {
+        "a": "Printing",
+        "b": "Exporting",
+        "c": "Saving",
+        "d": "Compiling"
+      },
+      "question": "What is the term for the process of converting a document into a PDF file?"
+    },
+    "q85": {
+      "answer": "c",
+      "options": {
+        "a": "Footnote",
+        "b": "Endnote",
+        "c": "Comment",
+        "d": "Text Box"
+      },
+      "question": "Which option is used to insert a comment in the margin of a document?"
+    },
+    "q86": {
+      "answer": "b",
+      "options": {
+        "a": "End",
+        "b": "Ctrl + End",
+        "c": "Page Down",
+        "d": "Ctrl + Page Down"
+      },
+      "question": "What is the shortcut key to move the cursor to the end of the document?"
+    },
+    "q87": {
+      "answer": "c",
+      "options": {
+        "a": "Style",
+        "b": "Template",
+        "c": "Theme",
+        "d": "Macro"
+      },
+      "question": "Which feature is used to apply a consistent look and feel (colors, fonts, effects) across a document?"
+    },
+    "q88": {
+      "answer": "c",
+      "options": {
+        "a": "Orientation",
+        "b": "Margins",
+        "c": "Size",
+        "d": "Columns"
+      },
+      "question": "What is the term for the process of changing the size of the page (e.g., A4, Letter)?"
+    },
+    "q89": {
+      "answer": "c",
+      "options": {
+        "a": "Pictures",
+        "b": "SmartArt",
+        "c": "Shapes",
+        "d": "Icon"
+      },
+      "question": "Which option is used to insert a shape (e.g., circle, arrow, rectangle) into the document?"
+    },
+    "q9": {
+      "answer": "d",
+      "options": {
+        "a": "Ctrl + F",
+        "b": "Ctrl + H",
+        "c": "Ctrl + G",
+        "d": "All of the above"
+      },
+      "question": "What is the shortcut key to open the 'Find and Replace' dialog box?"
+    },
+    "q90": {
+      "answer": "c",
+      "options": {
+        "a": "F1",
+        "b": "F5",
+        "c": "F7",
+        "d": "F12"
+      },
+      "question": "What is the shortcut key to open the 'Spelling and Grammar' check?"
+    },
+    "q91": {
+      "answer": "d",
+      "options": {
+        "a": "Home",
+        "b": "Insert",
+        "c": "References",
+        "d": "Mailings"
+      },
+      "question": "Which tab contains the 'Mail Merge' feature?"
+    },
+    "q92": {
+      "answer": "b",
+      "options": {
+        "a": "Merging Cells",
+        "b": "Splitting Cells",
+        "c": "Distributing Columns",
+        "d": "AutoFit"
+      },
+      "question": "What is the term for the process of dividing a cell in a table into multiple cells?"
+    },
+    "q93": {
+      "answer": "c",
+      "options": {
+        "a": "Page Border",
+        "b": "Shading",
+        "c": "Borders",
+        "d": "Text Box"
+      },
+      "question": "Which option is used to apply a border around a paragraph or text?"
+    },
+    "q94": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + H",
+        "b": "Ctrl + K",
+        "c": "Ctrl + L",
+        "d": "Ctrl + Shift + H"
+      },
+      "question": "What is the shortcut key to insert a hyperlink?"
+    },
+    "q95": {
+      "answer": "b",
+      "options": {
+        "a": "Chart",
+        "b": "SmartArt",
+        "c": "WordArt",
+        "d": "Icon"
+      },
+      "question": "Which feature is used to create a visual representation of information (e.g., organizational chart, process flow)?"
+    },
+    "q96": {
+      "answer": "b",
+      "options": {
+        "a": "Margins",
+        "b": "Orientation",
+        "c": "Size",
+        "d": "Columns"
+      },
+      "question": "What is the term for the process of changing the direction of the page (e.g., Portrait to Landscape)?"
+    },
+    "q97": {
+      "answer": "b",
+      "options": {
+        "a": "Page Break",
+        "b": "Blank Page",
+        "c": "Section Break",
+        "d": "New Page"
+      },
+      "question": "Which option is used to insert a blank page into the document?"
+    },
+    "q98": {
+      "answer": "b",
+      "options": {
+        "a": "Ctrl + S",
+        "b": "F12",
+        "c": "Ctrl + F12",
+        "d": "Alt + S"
+      },
+      "question": "What is the shortcut key to open the 'Save As' dialog box?"
+    },
+    "q99": {
+      "answer": "c",
+      "options": {
+        "a": "Styles",
+        "b": "Themes",
+        "c": "Mail Merge",
+        "d": "Macros"
+      },
+      "question": "Which feature is used to create a document that can be used as a template for letters, envelopes, or labels?"
+    }
+  },
+  "Troubleshooting_and_Maintenance": {
+    "q241": {
+      "answer": "b",
+      "options": {
+        "a": "Replace the CPU",
+        "b": "Check the power cord and power outlet",
+        "c": "Reinstall the operating system",
+        "d": "Replace the RAM"
+      },
+      "question": "What is the first step in the troubleshooting process for a computer that won't turn on?"
+    },
+    "q242": {
+      "answer": "b",
+      "options": {
+        "a": "Rubber Gloves",
+        "b": "Anti-static Wrist Strap",
+        "c": "Magnetic Screwdriver",
+        "d": "Multimeter"
+      },
+      "question": "Which tool is used to prevent electrostatic discharge (ESD) damage when working inside a computer?"
+    },
+    "q243": {
+      "answer": "b",
+      "options": {
+        "a": "Successful boot",
+        "b": "A hardware error (e.g., RAM, Video Card)",
+        "c": "Operating system loading",
+        "d": "Low battery"
+      },
+      "question": "What does a series of beeps during computer startup (POST) usually indicate?"
+    },
+    "q244": {
+      "answer": "b",
+      "options": {
+        "a": "Disk Cleanup",
+        "b": "Disk Defragmenter",
+        "c": "Antivirus",
+        "d": "File Explorer"
+      },
+      "question": "Which utility software is used to rearrange fragmented data on a hard drive to improve performance?"
+    },
+    "q245": {
+      "answer": "b",
+      "options": {
+        "a": "To back up user files",
+        "b": "To revert system files, registry keys, and settings to a previous state",
+        "c": "To clean up disk space",
+        "d": "To install new drivers"
+      },
+      "question": "What is the primary purpose of a 'System Restore' point in Windows?"
+    },
+    "q246": {
+      "answer": "b",
+      "options": {
+        "a": "FORMAT",
+        "b": "CHKDSK",
+        "c": "DEFRAG",
+        "d": "IPCONFIG"
+      },
+      "question": "Which command is used in Windows Command Prompt to check the health and integrity of a hard disk volume?"
+    },
+    "q247": {
+      "answer": "c",
+      "options": {
+        "a": "Hibernation",
+        "b": "Blue Screen of Death (BSOD)",
+        "c": "Crash",
+        "d": "Sleep Mode"
+      },
+      "question": "What is the term for a sudden, unexpected shutdown of the computer?"
+    },
+    "q248": {
+      "answer": "c",
+      "options": {
+        "a": "Hard Drive",
+        "b": "Network Card",
+        "c": "RAM or Graphics Card",
+        "d": "Mouse"
+      },
+      "question": "Which component failure is most likely to cause a computer to power on but display nothing on the screen?"
+    },
+    "q249": {
+      "answer": "b",
+      "options": {
+        "a": "To run applications faster",
+        "b": "To start the OS with a minimal set of drivers and services for troubleshooting",
+        "c": "To connect to the internet securely",
+        "d": "To perform a full system backup"
+      },
+      "question": "What is the purpose of 'Safe Mode' in an operating system?"
+    },
+    "q250": {
+      "answer": "c",
+      "options": {
+        "a": "Cable Tester",
+        "b": "Oscilloscope",
+        "c": "Multimeter",
+        "d": "Logic Probe"
+      },
+      "question": "Which tool is used to measure electrical properties like voltage, current, and resistance?"
+    },
+    "q251": {
+      "answer": "b",
+      "options": {
+        "a": "To fix existing problems",
+        "b": "To prevent future failures and prolong the life of the system",
+        "c": "To upgrade the hardware",
+        "d": "To install new software"
+      },
+      "question": "What is the primary goal of 'Preventive Maintenance' for a computer?"
+    },
+    "q252": {
+      "answer": "b",
+      "options": {
+        "a": "Preventive Maintenance",
+        "b": "Corrective Maintenance",
+        "c": "Adaptive Maintenance",
+        "d": "Perfective Maintenance"
+      },
+      "question": "Which type of maintenance involves fixing problems after they have occurred?"
+    },
+    "q253": {
+      "answer": "b",
+      "options": {
+        "a": "Feature",
+        "b": "Vulnerability",
+        "c": "Patch",
+        "d": "Driver"
+      },
+      "question": "What is the term for a security flaw in a software or operating system?"
+    },
+    "q254": {
+      "answer": "b",
+      "options": {
+        "a": "Phishing",
+        "b": "Hacking",
+        "c": "Spamming",
+        "d": "Malware"
+      },
+      "question": "Which term refers to unauthorized access to a computer system?"
+    },
+    "q255": {
+      "answer": "b",
+      "options": {
+        "a": "Universal Power System",
+        "b": "Uninterruptible Power Supply",
+        "c": "Unit Power Source",
+        "d": "Under Power System"
+      },
+      "question": "What is the full form of UPS?"
+    },
+    "q256": {
+      "answer": "c",
+      "options": {
+        "a": "Differential Backup",
+        "b": "Incremental Backup",
+        "c": "Full Backup",
+        "d": "Mirror Backup"
+      },
+      "question": "Which type of backup copies all selected files and marks them as backed up?"
+    },
+    "q257": {
+      "answer": "a",
+      "options": {
+        "a": "Time Domain Reflectometer",
+        "b": "Total Data Rate",
+        "c": "Test Drive Readout",
+        "d": "Technical Data Report"
+      },
+      "question": "What is the full form of TDR in cable testing?"
+    },
+    "q258": {
+      "answer": "c",
+      "options": {
+        "a": "Crimping Tool",
+        "b": "Wire Stripper",
+        "c": "Punch Down Tool",
+        "d": "Cable Tester"
+      },
+      "question": "Which tool is used to terminate wires into a patch panel or keystone jack?"
+    },
+    "q259": {
+      "answer": "b",
+      "options": {
+        "a": "Spyware",
+        "b": "Worm",
+        "c": "Rootkit",
+        "d": "Adware"
+      },
+      "question": "What is the term for a program that replicates itself and spreads to other computers without user intervention?"
+    },
+    "q260": {
+      "answer": "c",
+      "options": {
+        "a": "ipconfig",
+        "b": "tracert",
+        "c": "ping",
+        "d": "netstat"
+      },
+      "question": "Which command is used to check network connectivity and latency?"
+    },
+    "q261": {
+      "answer": "b",
+      "options": {
+        "a": "Electronic System Device",
+        "b": "Electrostatic Discharge",
+        "c": "External Storage Drive",
+        "d": "Enhanced System Diagnostics"
+      },
+      "question": "What is the full form of ESD?"
+    },
+    "q262": {
+      "answer": "c",
+      "options": {
+        "a": "Window Cleaner",
+        "b": "Water",
+        "c": "Specialized screen cleaner or mild soap solution",
+        "d": "Alcohol"
+      },
+      "question": "Which type of cleaner should be used to clean a monitor screen?"
+    },
+    "q263": {
+      "answer": "b",
+      "options": {
+        "a": "Upgrade",
+        "b": "Hotfix or Security Patch",
+        "c": "New Version",
+        "d": "Beta Release"
+      },
+      "question": "What is the term for a software update that addresses a specific security vulnerability?"
+    },
+    "q264": {
+      "answer": "b",
+      "options": {
+        "a": "Multimeter",
+        "b": "Discharge Probe",
+        "c": "Wire Stripper",
+        "d": "Crimping Tool"
+      },
+      "question": "Which tool is used to safely discharge residual electricity from a monitor or CRT?"
+    },
+    "q265": {
+      "answer": "b",
+      "options": {
+        "a": "Main File Access",
+        "b": "Multi-Factor Authentication",
+        "c": "Master File Allocation",
+        "d": "Mobile Functionality Access"
+      },
+      "question": "What is the full form of MFA?"
+    },
+    "q266": {
+      "answer": "b",
+      "options": {
+        "a": "Phishing",
+        "b": "DDoS (Distributed Denial of Service)",
+        "c": "Man-in-the-Middle",
+        "d": "SQL Injection"
+      },
+      "question": "Which type of attack floods a server with traffic to make it unavailable to legitimate users?"
+    },
+    "q267": {
+      "answer": "b",
+      "options": {
+        "a": "Authorization",
+        "b": "Authentication",
+        "c": "Encryption",
+        "d": "Auditing"
+      },
+      "question": "What is the term for the process of verifying the identity of a user or system?"
+    },
+    "q268": {
+      "answer": "c",
+      "options": {
+        "a": "Decryption",
+        "b": "Hashing",
+        "c": "Encryption",
+        "d": "Compression"
+      },
+      "question": "Which security measure involves converting data into an unreadable format?"
+    },
+    "q269": {
+      "answer": "c",
+      "options": {
+        "a": "Secure System Layer",
+        "b": "Standard Security Logic",
+        "c": "Secure Sockets Layer",
+        "d": "System Security Link"
+      },
+      "question": "What is the full form of SSL?"
+    },
+    "q270": {
+      "answer": "c",
+      "options": {
+        "a": "Spyware",
+        "b": "Adware",
+        "c": "Ransomware",
+        "d": "Worm"
+      },
+      "question": "Which type of malicious software encrypts a user's files and demands a ransom for their release?"
+    },
+    "q271": {
+      "answer": "c",
+      "options": {
+        "a": "Virus",
+        "b": "Worm",
+        "c": "Trojan Horse",
+        "d": "Rootkit"
+      },
+      "question": "What is the term for a program that appears to be harmless but secretly performs unwanted actions?"
+    },
+    "q272": {
+      "answer": "b",
+      "options": {
+        "a": "Full Backup",
+        "b": "Differential Backup",
+        "c": "Incremental Backup",
+        "d": "Mirror Backup"
+      },
+      "question": "Which type of backup only copies files that have changed since the last full backup?"
+    },
+    "q273": {
+      "answer": "b",
+      "options": {
+        "a": "To speed up the internet connection",
+        "b": "To prevent unauthorized access to a network or computer",
+        "c": "To store backup data",
+        "d": "To manage system updates"
+      },
+      "question": "What is the purpose of a firewall?"
+    },
+    "q274": {
+      "answer": "c",
+      "options": {
+        "a": "Dictionary Attack",
+        "b": "Rainbow Table Attack",
+        "c": "Brute Force Attack",
+        "d": "Phishing"
+      },
+      "question": "Which type of password attack tries every possible combination of characters?"
+    },
+    "q275": {
+      "answer": "b",
+      "options": {
+        "a": "Hacking",
+        "b": "Phishing",
+        "c": "Spoofing",
+        "d": "DDoS"
+      },
+      "question": "What is the term for the practice of tricking users into revealing personal information?"
+    },
+    "q276": {
+      "answer": "b",
+      "options": {
+        "a": "Cable Tester",
+        "b": "PSU Tester or Multimeter",
+        "c": "Oscilloscope",
+        "d": "TDR"
+      },
+      "question": "Which tool is used to check if a power supply unit (PSU) is providing the correct voltages?"
+    },
+    "q277": {
+      "answer": "a",
+      "options": {
+        "a": "Data Loss Prevention",
+        "b": "Digital Logic Processor",
+        "c": "Data Link Protocol",
+        "d": "Disk Layout Partitioning"
+      },
+      "question": "What is the full form of DLP in data security?"
+    },
+    "q278": {
+      "answer": "b",
+      "options": {
+        "a": "Corrective",
+        "b": "Preventive",
+        "c": "Adaptive",
+        "d": "Perfective"
+      },
+      "question": "Which type of maintenance involves regular cleaning and inspection to prevent failures?"
+    },
+    "q279": {
+      "answer": "b",
+      "options": {
+        "a": "Compiling",
+        "b": "Debugging",
+        "c": "Testing",
+        "d": "Executing"
+      },
+      "question": "What is the term for the process of finding and fixing errors in a program or system?"
+    },
+    "q280": {
+      "answer": "b",
+      "options": {
+        "a": "System Files",
+        "b": "Temporary Files",
+        "c": "Program Files",
+        "d": "Driver Files"
+      },
+      "question": "Which type of file should be deleted regularly to free up disk space and improve performance?"
+    },
+    "q281": {
+      "answer": "a",
+      "options": {
+        "a": "Mean Time Between Failures",
+        "b": "Maximum Time Before Formatting",
+        "c": "Minimum Time Before Failure",
+        "d": "Main Time Backup File"
+      },
+      "question": "What is the full form of MTBF?"
+    },
+    "q282": {
+      "answer": "a",
+      "options": {
+        "a": "Multimeter (Voltage Check)",
+        "b": "Cable Tester",
+        "c": "Oscilloscope",
+        "d": "Crimping Tool"
+      },
+      "question": "Which tool is used to check the health of a battery?"
+    },
+    "q283": {
+      "answer": "b",
+      "options": {
+        "a": "Upgrade",
+        "b": "Patching",
+        "c": "Installing",
+        "d": "Compiling"
+      },
+      "question": "What is the term for the process of applying a software update to fix a bug or security issue?"
+    },
+    "q284": {
+      "answer": "c",
+      "options": {
+        "a": "Keyboard",
+        "b": "Mouse",
+        "c": "CPU or GPU",
+        "d": "Printer"
+      },
+      "question": "Which component is most likely to fail due to excessive heat?"
+    },
+    "q285": {
+      "answer": "b",
+      "options": {
+        "a": "Real-Time Operation",
+        "b": "Recovery Time Objective",
+        "c": "Remote Technical Output",
+        "d": "Resource Transfer Optimization"
+      },
+      "question": "What is the full form of RTO in disaster recovery?"
+    },
+    "q286": {
+      "answer": "b",
+      "options": {
+        "a": "Confidentiality",
+        "b": "Integrity",
+        "c": "Availability",
+        "d": "Non-repudiation"
+      },
+      "question": "Which security principle ensures that data is accurate and trustworthy?"
+    },
+    "q287": {
+      "answer": "b",
+      "options": {
+        "a": "Real-Time Processing Objective",
+        "b": "Recovery Point Objective",
+        "c": "Remote Program Output",
+        "d": "Resource Planning Optimization"
+      },
+      "question": "What is the full form of RPO in disaster recovery?"
+    },
+    "q288": {
+      "answer": "b",
+      "options": {
+        "a": "Crimping Tool",
+        "b": "Fusion Splicer",
+        "c": "Wire Stripper",
+        "d": "Punch Down Tool"
+      },
+      "question": "Which tool is used to join two ends of a fiber optic cable?"
+    },
+    "q289": {
+      "answer": "b",
+      "options": {
+        "a": "Phishing",
+        "b": "Spoofing",
+        "c": "Hacking",
+        "d": "Sniffing"
+      },
+      "question": "What is the term for the practice of using a fake email address to trick a recipient?"
+    },
+    "q290": {
+      "answer": "c",
+      "options": {
+        "a": "Mouse",
+        "b": "Keyboard",
+        "c": "RAM or Power Supply",
+        "d": "Printer"
+      },
+      "question": "Which component is most likely to cause intermittent system crashes if it is faulty?"
+    },
+    "q291": {
+      "answer": "b",
+      "options": {
+        "a": "To format the hard drive",
+        "b": "To remove unnecessary files to free up disk space",
+        "c": "To check for bad sectors",
+        "d": "To create a new partition"
+      },
+      "question": "What is the purpose of 'Disk Cleanup' utility in Windows?"
+    },
+    "q292": {
+      "answer": "c",
+      "options": {
+        "a": "Corrective",
+        "b": "Preventive",
+        "c": "Adaptive",
+        "d": "Perfective"
+      },
+      "question": "Which type of maintenance involves modifying the software to accommodate changes in the environment (e.g., new OS version)?"
+    },
+    "q293": {
+      "answer": "b",
+      "options": {
+        "a": "System Management And Reporting Technology",
+        "b": "Self-Monitoring, Analysis and Reporting Technology",
+        "c": "Standard Maintenance And Repair Tool",
+        "d": "System Memory And Retrieval Tool"
+      },
+      "question": "What is the full form of S.M.A.R.T. in hard drives?"
+    },
+    "q294": {
+      "answer": "b",
+      "options": {
+        "a": "Oscilloscope",
+        "b": "Multimeter (Continuity Mode)",
+        "c": "Function Generator",
+        "d": "Logic Probe"
+      },
+      "question": "Which tool is used to check the continuity of a fuse?"
+    },
+    "q295": {
+      "answer": "c",
+      "options": {
+        "a": "Phishing",
+        "b": "Spoofing",
+        "c": "Sniffing",
+        "d": "Hacking"
+      },
+      "question": "What is the term for the unauthorized interception of network traffic?"
+    },
+    "q296": {
+      "answer": "c",
+      "options": {
+        "a": "Full Backup",
+        "b": "Differential Backup",
+        "c": "Incremental Backup",
+        "d": "Mirror Backup"
+      },
+      "question": "Which type of backup is the fastest to perform but the slowest to restore?"
+    },
+    "q297": {
+      "answer": "a",
+      "options": {
+        "a": "Media Access Control",
+        "b": "Memory Address Code",
+        "c": "Main Access Controller",
+        "d": "Master Address Connection"
+      },
+      "question": "What is the full form of MAC address?"
+    },
+    "q298": {
+      "answer": "c",
+      "options": {
+        "a": "ping",
+        "b": "tracert",
+        "c": "ipconfig",
+        "d": "netstat"
+      },
+      "question": "Which command is used to display the network configuration of a Windows computer?"
+    },
+    "q299": {
+      "answer": "b",
+      "options": {
+        "a": "Upgrade",
+        "b": "Patching",
+        "c": "Installing",
+        "d": "Compiling"
+      },
+      "question": "What is the term for the process of applying a software update to fix a bug or security issue?"
+    },
+    "q300": {
+      "answer": "c",
+      "options": {
+        "a": "Phillips Screwdriver",
+        "b": "Flathead Screwdriver",
+        "c": "Torx Screwdriver",
+        "d": "Hex Key"
+      },
+      "question": "Which tool is used to tighten or loosen screws with a star-shaped head, often found in laptops and mobile devices?"
+    }
+  },
+  "dBASE_and_FoxPro": {
+    "q1": {
+      "answer": "d",
+      "options": {
+        "a": "Infinite",
+        "b": "1 Lac",
+        "c": "2 Lac",
+        "d": "4 Lac"
+      },
+      "question": "Limit for inserting record in dBASE"
+    },
+    "q10": {
+      "answer": "d",
+      "options": {
+        "a": "DTOC()",
+        "b": "CTOD()",
+        "c": "Cmonth()",
+        "d": "All of Above"
+      },
+      "question": "Following are date type functions"
+    },
+    "q11": {
+      "answer": "d",
+      "options": {
+        "a": ".AND.",
+        "b": ".OR.",
+        "c": ".NOT.",
+        "d": ".NAND."
+      },
+      "question": "Logical Operator is not"
+    },
+    "q12": {
+      "answer": "b",
+      "options": {
+        "a": "Open filename",
+        "b": "Use filename",
+        "c": "Type filename",
+        "d": "Filename"
+      },
+      "question": "Command to open database file is"
+    },
+    "q13": {
+      "answer": "b",
+      "options": {
+        "a": "LIST and DISP ALL",
+        "b": "CHANGE and REPLACE",
+        "c": "SORT & INDEX",
+        "d": "CREAT & USE"
+      },
+      "question": "The pair of same type of command is"
+    },
+    "q14": {
+      "answer": "d",
+      "options": {
+        "a": "Re-allocate the records",
+        "b": "Physically remove record",
+        "c": "Warning alert",
+        "d": "1 & 2"
+      },
+      "question": "Pack command is used for"
+    },
+    "q15": {
+      "answer": "b",
+      "options": {
+        "a": "EDIT command",
+        "b": "Modify stru",
+        "c": "Modify command",
+        "d": "Change stru"
+      },
+      "question": "For making change in structure of DBF,we use"
+    },
+    "q16": {
+      "answer": "b",
+      "options": {
+        "a": "VAL & CHR",
+        "b": "VAL & STR",
+        "c": "ASC AND VAL",
+        "d": "NUM & STR"
+      },
+      "question": "Pair of function and its reverse function"
+    },
+    "q17": {
+      "answer": "b",
+      "options": {
+        "a": "Delete all",
+        "b": "Delete All & PACK",
+        "c": "Delete",
+        "d": "Delete FOR <condition>"
+      },
+      "question": "ZAP is equal to"
+    },
+    "q18": {
+      "answer": "c",
+      "options": {
+        "a": "Index on...",
+        "b": "Set index to",
+        "c": "USE file.dbf INDEX file.idx",
+        "d": "set index to filename"
+      },
+      "question": "For open index (.IDX or NDX) file ,we use"
+    },
+    "q19": {
+      "answer": "a",
+      "options": {
+        "a": "Continue",
+        "b": "Display",
+        "c": "Re-locate",
+        "d": "All of above"
+      },
+      "question": "Complementory, of LOCATE command us"
+    },
+    "q2": {
+      "answer": "b",
+      "options": {
+        "a": "2 Billion",
+        "b": "4 Billion",
+        "c": "1 Billion",
+        "d": "1 and 2"
+      },
+      "question": "Max. capacity of DBF in bytes in Dbase and Foxpro,respectively"
+    },
+    "q20": {
+      "answer": "a",
+      "options": {
+        "a": "Repl..With..",
+        "b": "Repl all.. With..",
+        "c": "Repl..With..For..",
+        "d": "All of above"
+      },
+      "question": "Syntax of replace command is"
+    },
+    "q21": {
+      "answer": "d",
+      "options": {
+        "a": "15 Files",
+        "b": "10 Files",
+        "c": "5 Files",
+        "d": "Much more files"
+      },
+      "question": "Through area selection we can open"
+    },
+    "q22": {
+      "answer": "c",
+      "options": {
+        "a": "Set Default to..",
+        "b": "Set Device to ..",
+        "c": "Set Data to..",
+        "d": "Set Decimal to"
+      },
+      "question": "Following set command is not dBASE command"
+    },
+    "q23": {
+      "answer": "c",
+      "options": {
+        "a": "LIST REPORT..",
+        "b": "DISPLAY..",
+        "c": "REPORT FORM..",
+        "d": "VIEW REPORT"
+      },
+      "question": "For viewing content of report ,we use"
+    },
+    "q24": {
+      "answer": "a",
+      "options": {
+        "a": "LIST Label filename",
+        "b": "Print Label filename",
+        "c": "Label Form...",
+        "d": "View Label filename"
+      },
+      "question": "For view content of LABEL"
+    },
+    "q25": {
+      "answer": "a",
+      "options": {
+        "a": "All fields",
+        "b": "Group",
+        "c": "Column",
+        "d": "Selected fields only"
+      },
+      "question": "Report can not be based on"
+    },
+    "q26": {
+      "answer": "a",
+      "options": {
+        "a": "RUN command",
+        "b": "Do command",
+        "c": "Modi command",
+        "d": "Trace Command"
+      },
+      "question": "For Running program we use"
+    },
+    "q3": {
+      "answer": "b",
+      "options": {
+        "a": "User defind function",
+        "b": "In-Build function",
+        "c": "Memory variable",
+        "d": "None of Above"
+      },
+      "question": "EOF() is"
+    },
+    "q4": {
+      "answer": "d",
+      "options": {
+        "a": "Copy stru",
+        "b": "Modi Stru",
+        "c": "Disp Stru",
+        "d": "Omit stru"
+      },
+      "question": "Which is odd"
+    },
+    "q5": {
+      "answer": "b",
+      "options": {
+        "a": "@5,3 say .. get...",
+        "b": "@ 5,3 say...",
+        "c": "@5,3 get...",
+        "d": "@5,3 say... get ...."
+      },
+      "question": "Command is not correct"
+    },
+    "q6": {
+      "answer": "a",
+      "options": {
+        "a": "Clear screen",
+        "b": "Clear memory",
+        "c": "Both",
+        "d": "None of above"
+      },
+      "question": "Clear and Clear all command"
+    },
+    "q7": {
+      "answer": "a",
+      "options": {
+        "a": "128",
+        "b": "256",
+        "c": "512",
+        "d": "infinite"
+      },
+      "question": "In DBF field limit is"
+    },
+    "q8": {
+      "answer": "a",
+      "options": {
+        "a": "Relational type",
+        "b": "Hirachical types",
+        "c": "Network type",
+        "d": "Ordinary types"
+      },
+      "question": "dBASE is DBMS of"
+    },
+    "q9": {
+      "answer": "c",
+      "options": {
+        "a": "Append",
+        "b": "Append from",
+        "c": "Append Blank",
+        "d": "Append All"
+      },
+      "question": "Which is odd command"
+    }
+  }
+}
