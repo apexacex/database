@@ -1,0 +1,597 @@
+
+{
+  "project": {
+    "title": "The Boy Who Found a Magic Robot",
+    "genre": ["Adventure", "Comedy", "Fantasy"],
+    "style": "Colorful 3D animated cartoon",
+    "target_audience": "Kids and family",
+    "duration_minutes": 5,
+    "language": "Hindi-English",
+    "aspect_ratio": "16:9",
+    "animation_quality": "High quality, smooth cinematic animation",
+    "instructions": "Create an original cartoon with consistent character designs, detailed facial expressions, full-body movements, realistic reactions, synchronized dialogue, sound effects, and cinematic camera movements."
+  },
+  "characters": [
+    {
+      "id": "jay",
+      "name": "Jay",
+      "age": 12,
+      "appearance": {
+        "hair": "Messy black hair",
+        "eyes": "Large expressive brown eyes",
+        "clothing": "Blue hoodie, black trousers, white sneakers",
+        "body_type": "Stylized cartoon proportions"
+      },
+      "personality": ["Curious", "Funny", "Brave", "Clumsy"],
+      "facial_expressions": {
+        "happy": "Wide smile, raised cheeks, bright eyes",
+        "sad": "Drooping eyebrows, lowered head, trembling lips",
+        "angry": "Furrowed eyebrows, narrowed eyes, tight lips",
+        "surprised": "Raised eyebrows, enlarged pupils, open mouth",
+        "scared": "Wide eyes, trembling lips, tense face",
+        "confused": "Tilted head, one raised eyebrow, pursed lips",
+        "laughing": "Closed or squinting eyes, open smiling mouth, shaking shoulders"
+      },
+      "body_movements": [
+        "Walk naturally with alternating arm and leg movements",
+        "Jump backward when frightened",
+        "Scratch head when confused",
+        "Lean forward when investigating objects",
+        "Run with swinging arms",
+        "Bend forward while laughing"
+      ],
+      "voice": {
+        "type": "Energetic young male cartoon voice",
+        "language": "Hindi-English",
+        "emotion_variation": true
+      }
+    },
+    {
+      "id": "beep",
+      "name": "Beep",
+      "appearance": {
+        "body": "Small rounded silver robot",
+        "details": "Blue accents, glowing cyan eyes, tiny mechanical arms, wheels",
+        "screen": "Animated digital mouth"
+      },
+      "personality": ["Intelligent", "Funny", "Innocent", "Easily confused"],
+      "facial_expressions": {
+        "happy": "Curved cyan eyes and a smiling digital mouth",
+        "sad": "Drooping eye shapes and a small frown",
+        "angry": "Narrow glowing eyes and a straight digital mouth",
+        "surprised": "Large circular eyes and an open digital mouth",
+        "scared": "Rapidly blinking eyes and a trembling body",
+        "confused": "Uneven eye shapes and a tilted head",
+        "thinking": "Focused eyes with a slowly rotating head"
+      },
+      "body_movements": [
+        "Roll forward and backward on wheels",
+        "Rotate head when curious",
+        "Wave mechanical arms when excited",
+        "Shake body when nervous",
+        "Spin in circles when frightened",
+        "Extend mechanical arms when helping someone"
+      ],
+      "voice": {
+        "type": "Cute robotic voice",
+        "effects": ["Electronic beeps", "Light robotic modulation"],
+        "language": "Hindi-English"
+      }
+    },
+    {
+      "id": "mystery_cat",
+      "name": "Mystery Cat",
+      "appearance": {
+        "fur": "Orange",
+        "eyes": "Large green eyes",
+        "tail": "Long fluffy tail",
+        "ears": "Pointed expressive ears"
+      },
+      "personality": ["Mischievous", "Clever", "Playful"],
+      "facial_expressions": {
+        "happy": "Relaxed eyes and raised whiskers",
+        "scared": "Wide eyes and flattened ears",
+        "curious": "Forward-facing ears and enlarged pupils",
+        "mischievous": "Narrowed eyes and a slightly raised head"
+      },
+      "body_movements": [
+        "Walk with a gently swaying tail",
+        "Jump onto objects",
+        "Flatten ears when frightened",
+        "Run quickly when playing",
+        "Curl tail when happy"
+      ],
+      "voice": {
+        "type": "Natural cartoon cat sounds",
+        "sounds": ["Meow", "Purr", "Hiss"]
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "title": "The Mysterious Box",
+      "location": "Colorful city park",
+      "time": "Afternoon",
+      "environment": {
+        "background": ["Green grass", "Tall trees", "Colorful flowers", "Playground"],
+        "lighting": "Warm sunlight with soft shadows",
+        "music": "Light adventurous background music"
+      },
+      "camera": [
+        "Begin with a wide aerial shot of the park",
+        "Slowly zoom toward Jay",
+        "Cut to a close-up of Jay's face",
+        "Finish with a close-up of the metallic box"
+      ],
+      "actions": [
+        {
+          "character": "jay",
+          "action": "Walk along the park path while kicking a small pebble",
+          "facial_expression": "Relaxed and curious",
+          "body_movement": "Natural walking cycle with swinging arms",
+          "duration_seconds": 4
+        },
+        {
+          "character": "jay",
+          "action": "Notice a mysterious metallic box under a tree",
+          "facial_expression": "Eyebrows rise, pupils enlarge, mouth opens slightly",
+          "body_movement": "Stop walking, lean forward, bend knees",
+          "duration_seconds": 3
+        },
+        {
+          "character": "jay",
+          "action": "Look around and slowly touch the box",
+          "facial_expression": "Suspicious curiosity",
+          "body_movement": "Turn head left and right before reaching forward",
+          "duration_seconds": 4
+        },
+        {
+          "character": "jay",
+          "action": "Jump backward when the box starts shaking",
+          "facial_expression": "Wide eyes and open mouth",
+          "body_movement": "Raise both arms and jump backward",
+          "dialogue": "AAAH! Yeh kya hai?!",
+          "duration_seconds": 3
+        }
+      ],
+      "dialogue": [
+        {
+          "character": "jay",
+          "text": "Yeh box yahan kisne chhoda?",
+          "emotion": "Curious"
+        },
+        {
+          "character": "jay",
+          "text": "AAAH! Yeh kya hai?!",
+          "emotion": "Frightened"
+        }
+      ],
+      "sound_effects": [
+        "Birds chirping",
+        "Footsteps on gravel",
+        "Mysterious metallic humming",
+        "Box shaking",
+        "Magical blue energy sound"
+      ],
+      "transition": "A bright blue flash reveals the next scene"
+    },
+    {
+      "scene_id": 2,
+      "title": "The Robot Wakes Up",
+      "location": "Same park",
+      "camera": [
+        "Extreme close-up of the box opening",
+        "Slow reveal of glowing robot eyes",
+        "Medium shot of Jay and Beep",
+        "Close-up of Jay laughing"
+      ],
+      "actions": [
+        {
+          "character": "beep",
+          "action": "Rise from the box and activate its glowing eyes",
+          "facial_expression": "Eyes blink three times before forming a smile",
+          "body_movement": "Head rises slowly and rotates from side to side",
+          "duration_seconds": 4
+        },
+        {
+          "character": "beep",
+          "action": "Roll forward and bump gently into Jay's shoe",
+          "facial_expression": "Confused digital eyes",
+          "body_movement": "Roll forward, stop suddenly, tilt head upward",
+          "duration_seconds": 3
+        },
+        {
+          "character": "jay",
+          "action": "Stare at the robot in disbelief",
+          "facial_expression": "Raised eyebrows and open mouth",
+          "body_movement": "Lean backward and point toward Beep",
+          "duration_seconds": 3
+        },
+        {
+          "character": "jay",
+          "action": "Burst into laughter",
+          "facial_expression": "Squinting eyes and a wide smile",
+          "body_movement": "Bend forward and hold stomach",
+          "duration_seconds": 4
+        },
+        {
+          "character": "beep",
+          "action": "Tilt head in confusion",
+          "facial_expression": "Uneven digital eyes and confused mouth",
+          "body_movement": "Rotate head slowly",
+          "duration_seconds": 2
+        }
+      ],
+      "dialogue": [
+        {
+          "character": "beep",
+          "text": "BOOTING... BOOTING... HELLO, HUMAN!",
+          "emotion": "Cheerful robotic greeting"
+        },
+        {
+          "character": "jay",
+          "text": "Tum... ek robot ho?",
+          "emotion": "Surprised"
+        },
+        {
+          "character": "beep",
+          "text": "INCORRECT. MAIN EK VERY HANDSOME TOASTER HOON!",
+          "emotion": "Proud and funny"
+        },
+        {
+          "character": "beep",
+          "text": "ERROR. HUMAN LAUGHTER DETECTED.",
+          "emotion": "Confused"
+        }
+      ],
+      "sound_effects": [
+        "Robotic startup tones",
+        "Mechanical wheel sounds",
+        "Funny electronic beep",
+        "Cartoon laughter"
+      ],
+      "transition": "Camera pans toward a football near a park bench"
+    },
+    {
+      "scene_id": 3,
+      "title": "The Robot's First Superpower",
+      "location": "Park playground",
+      "camera": [
+        "Medium shot of Jay pointing at a football",
+        "Tracking shot following Beep",
+        "Fast cuts showing flying metal objects",
+        "Close-up of Beep's spinning head"
+      ],
+      "actions": [
+        {
+          "character": "jay",
+          "action": "Point toward a football",
+          "facial_expression": "Friendly smile",
+          "body_movement": "Extend right arm and point",
+          "duration_seconds": 2
+        },
+        {
+          "character": "beep",
+          "action": "Activate a magnetic beam",
+          "facial_expression": "Focused eyes that turn red when the power malfunctions",
+          "body_movement": "Extend one arm and vibrate rapidly",
+          "duration_seconds": 4
+        },
+        {
+          "character": "environment",
+          "action": "Metal objects begin flying toward Beep",
+          "visual_effects": "Blue magnetic energy waves and flying keys",
+          "camera_effect": "Quick tracking movements",
+          "duration_seconds": 5
+        },
+        {
+          "character": "jay",
+          "action": "Dodge flying objects and shout at Beep",
+          "facial_expression": "Wide eyes, raised eyebrows, open mouth",
+          "body_movement": "Duck, sidestep, and wave both arms",
+          "duration_seconds": 4
+        },
+        {
+          "character": "beep",
+          "action": "Get hit gently by the football",
+          "facial_expression": "Circular shocked eyes",
+          "body_movement": "Head spins around while wheels stop",
+          "duration_seconds": 3
+        }
+      ],
+      "dialogue": [
+        {
+          "character": "jay",
+          "text": "Beep, kya tum us ball ko mere paas la sakte ho?",
+          "emotion": "Hopeful"
+        },
+        {
+          "character": "beep",
+          "text": "TASK ACCEPTED.",
+          "emotion": "Confident"
+        },
+        {
+          "character": "jay",
+          "text": "BEEP! BAND KARO! BAND KARO!",
+          "emotion": "Panicked"
+        },
+        {
+          "character": "beep",
+          "text": "SMALL TECHNICAL PROBLEM!",
+          "emotion": "Nervous"
+        }
+      ],
+      "sound_effects": [
+        "Magnetic charging sound",
+        "Flying object whooshes",
+        "Metallic clanks",
+        "Cartoon impact",
+        "Jay laughing"
+      ],
+      "transition": "A cat's loud meow interrupts the scene"
+    },
+    {
+      "scene_id": 4,
+      "title": "The Cat Attack",
+      "location": "Park wall and playground",
+      "camera": [
+        "Close-up of the orange cat",
+        "Low-angle shot as the cat jumps",
+        "Circular tracking shot following Beep",
+        "Wide shot of the chase"
+      ],
+      "actions": [
+        {
+          "character": "mystery_cat",
+          "action": "Approach Beep and jump onto its head",
+          "facial_expression": "Curious eyes changing into a mischievous expression",
+          "body_movement": "Crouch, jump, land gently, and sit",
+          "duration_seconds": 4
+        },
+        {
+          "character": "beep",
+          "action": "Freeze after detecting the cat",
+          "facial_expression": "Giant circular eyes and a trembling digital mouth",
+          "body_movement": "Stop wheels and slowly turn head toward Jay",
+          "duration_seconds": 3
+        },
+        {
+          "character": "beep",
+          "action": "Roll backward in fright",
+          "facial_expression": "Rapidly blinking eyes",
+          "body_movement": "Spin in circles and accelerate away",
+          "duration_seconds": 4
+        },
+        {
+          "character": "mystery_cat",
+          "action": "Chase Beep playfully",
+          "facial_expression": "Excited mischievous eyes",
+          "body_movement": "Run with tail raised and make small sideways jumps",
+          "duration_seconds": 4
+        },
+        {
+          "character": "jay",
+          "action": "Run behind the robot while laughing",
+          "facial_expression": "Wide smile and squinting eyes",
+          "body_movement": "Run with swinging arms",
+          "duration_seconds": 4
+        }
+      ],
+      "dialogue": [
+        {
+          "character": "beep",
+          "text": "JAY... UNKNOWN FURRY CREATURE DETECTED.",
+          "emotion": "Terrified"
+        },
+        {
+          "character": "jay",
+          "text": "Relax! Yeh sirf billi hai!",
+          "emotion": "Amused"
+        }
+      ],
+      "sound_effects": [
+        "Cat meowing",
+        "Robotic warning alarm",
+        "Fast rolling wheels",
+        "Cartoon boing sounds",
+        "Footsteps and laughter"
+      ],
+      "transition": "The chase stops when a child cries nearby"
+    },
+    {
+      "scene_id": 5,
+      "title": "The Unexpected Hero",
+      "location": "Park beneath a large tree",
+      "camera": [
+        "Close-up of a colorful kite stuck in a tree",
+        "Close-up of the crying child",
+        "Medium shot of Jay and Beep",
+        "Low-angle shot during the rescue",
+        "Wide shot of the reunited child and kite"
+      ],
+      "actions": [
+        {
+          "character": "child",
+          "action": "Look up at a kite stuck in a tree and begin crying",
+          "facial_expression": "Sad eyes and trembling lips",
+          "body_movement": "Lower shoulders and reach toward the kite",
+          "duration_seconds": 3
+        },
+        {
+          "character": "jay",
+          "action": "Stop laughing and approach the child",
+          "facial_expression": "Concerned eyes and a gentle smile",
+          "body_movement": "Turn toward the child and kneel slightly",
+          "duration_seconds": 3
+        },
+        {
+          "character": "beep",
+          "action": "Activate hero mode",
+          "facial_expression": "Bright glowing blue eyes and confident digital smile",
+          "body_movement": "Straighten body and extend mechanical arms",
+          "duration_seconds": 3
+        },
+        {
+          "character": "beep",
+          "action": "Raise Jay safely toward the kite using a small platform",
+          "facial_expression": "Focused eyes",
+          "body_movement": "Remain stable while slowly lifting the platform",
+          "duration_seconds": 5
+        },
+        {
+          "character": "jay",
+          "action": "Carefully remove the kite and hand it to the child",
+          "facial_expression": "Relieved smile",
+          "body_movement": "Reach toward the branch and gently pass the kite down",
+          "duration_seconds": 4
+        },
+        {
+          "character": "child",
+          "action": "Receive the kite and smile",
+          "facial_expression": "Happy eyes and a wide smile",
+          "body_movement": "Hug the kite and jump with excitement",
+          "duration_seconds": 3
+        }
+      ],
+      "dialogue": [
+        {
+          "character": "child",
+          "text": "Meri kite! Koi meri help karo!",
+          "emotion": "Sad and worried"
+        },
+        {
+          "character": "jay",
+          "text": "Beep, ab humein kisi ki help karni hai.",
+          "emotion": "Determined"
+        },
+        {
+          "character": "beep",
+          "text": "HERO MODE ACTIVATED!",
+          "emotion": "Confident"
+        },
+        {
+          "character": "child",
+          "text": "Thank you, Jay!",
+          "emotion": "Happy"
+        },
+        {
+          "character": "jay",
+          "text": "You're welcome!",
+          "emotion": "Warm and friendly"
+        },
+        {
+          "character": "beep",
+          "text": "MISSION SUCCESSFUL!",
+          "emotion": "Proud"
+        }
+      ],
+      "sound_effects": [
+        "Soft emotional music",
+        "Robotic power-up",
+        "Mechanical platform movement",
+        "Happy child laughter",
+        "Cheerful success sound"
+      ],
+      "transition": "Warm sunset light fills the screen"
+    },
+    {
+      "scene_id": 6,
+      "title": "A New Adventure",
+      "location": "Park entrance at sunset",
+      "camera": [
+        "Tracking shot of Jay and Beep walking together",
+        "Close-up of Jay asking a question",
+        "Close-up of Beep's glowing eyes",
+        "Wide cinematic shot of the characters running into the sunset"
+      ],
+      "actions": [
+        {
+          "character": "jay",
+          "action": "Walk beside Beep and ask about tomorrow",
+          "facial_expression": "Relaxed smile and curious eyes",
+          "body_movement": "Walk naturally while looking toward Beep",
+          "duration_seconds": 4
+        },
+        {
+          "character": "beep",
+          "action": "Announce a plan to conquer the moon",
+          "facial_expression": "Excited glowing green eyes",
+          "body_movement": "Raise both arms and accelerate forward",
+          "duration_seconds": 3
+        },
+        {
+          "character": "jay",
+          "action": "Stop suddenly and react with surprise",
+          "facial_expression": "Raised eyebrows and wide-open mouth",
+          "body_movement": "Freeze briefly and then run after Beep",
+          "duration_seconds": 3
+        },
+        {
+          "character": "mystery_cat",
+          "action": "Follow Jay and Beep while carrying the stolen antenna cover",
+          "facial_expression": "Proud mischievous expression",
+          "body_movement": "Run with tail raised",
+          "duration_seconds": 3
+        }
+      ],
+      "dialogue": [
+        {
+          "character": "jay",
+          "text": "Beep, kal hum kya adventure karenge?",
+          "emotion": "Curious"
+        },
+        {
+          "character": "beep",
+          "text": "TOMORROW... WE CONQUER THE MOON!",
+          "emotion": "Excited"
+        },
+        {
+          "character": "jay",
+          "text": "WHAT?!",
+          "emotion": "Shocked"
+        }
+      ],
+      "sound_effects": [
+        "Soft sunset ambience",
+        "Adventure music building gradually",
+        "Fast robotic wheels",
+        "Cat footsteps",
+        "Funny robotic laughter"
+      ],
+      "ending": {
+        "visual": "Camera rises above the park as the three characters disappear into the orange-purple sunset",
+        "on_screen_text": "TO BE CONTINUED...",
+        "music": "Cheerful cinematic adventure ending"
+      }
+    }
+  ],
+  "global_animation_rules": {
+    "character_consistency": "Keep each character's face, clothing, proportions, colours, and identifying features consistent across all scenes.",
+    "facial_animation": "Animate eyebrows, eyelids, pupils, mouth shapes, cheeks, and head tilts according to each emotion.",
+    "lip_sync": "Synchronize mouth movements with spoken dialogue and syllables.",
+    "body_animation": "Use anticipation, acceleration, follow-through, and settling movements for believable cartoon actions.",
+    "eye_tracking": "Characters must look toward the person or object they are interacting with.",
+    "camera": "Use wide shots for locations, medium shots for interactions, close-ups for emotions, and tracking shots for movement.",
+    "lighting": "Use cinematic lighting, soft shadows, and colourful environments.",
+    "audio": "Synchronize dialogue, sound effects, and background music with the action.",
+    "transitions": "Use smooth cinematic cuts, pans, or magical transitions.",
+    "quality_control": "Avoid distorted faces, extra limbs, inconsistent clothing, sudden character redesigns, and unnatural motion.",
+    "storytelling": "Every scene must have a clear beginning, action, reaction, and conclusion."
+  },
+  "notebooklm_instructions": {
+    "task": "Generate a video overview based on this cartoon story.",
+    "priority": [
+      "Character actions",
+      "Facial expressions",
+      "Body movements",
+      "Dialogue",
+      "Camera directions",
+      "Sound effects",
+      "Character consistency"
+    ],
+    "visual_style": "Colorful cinematic 3D cartoon",
+    "narrative_style": "Funny, expressive, adventurous, and family-friendly",
+    "important_note": "Use the scenes as a structured production guide. If the video generator cannot produce full character animation, preserve the story and visual details as closely as its capabilities allow."
+  }
+}
